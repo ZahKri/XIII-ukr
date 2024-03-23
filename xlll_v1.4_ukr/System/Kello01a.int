@@ -1,0 +1,45 @@
+[LevelInfo0]
+Title=Kello01a
+
+[DialogueManager10]
+Speakers=((PawnName="Tueur1a",Sentences=("Я не розумію. Згідно з картою, хатина повинна бути прямо під моїми ногами!","Пішов ти!")),(PawnName="Tueur2a",Sentences=("Ну то візьми лопату та відкопай її!","Хa! Хa! Хa!","Ви перевірте зліва. А ми підемо направо!")))
+
+[DialogueManager2]
+Speakers=((PawnName="Tueur1b",Sentences=("Зачекай! Результат виглядає як лайно !")),(PawnName="Tueur2c",Sentences=("Ну то зроби краще?")),(PawnName="Tueur3b",Sentences=("Тепер цей турист виглядає менш дратівливим, згодні??")))
+
+[DialogueManager5]
+Speakers=((PawnName="Jones",Sentences=("Ми сховаємо гелікоптер. Повідом, як тільки знайдеш хатину.")))
+
+[DialogueManager7]
+Speakers=((PawnName="Jones",Sentences=("","Ми висадили тебе трохи далі, ніж планували. Не хвилюйся, просто знайди водоспад. Хатина буде на іншому березі річки.")))
+
+[DialogueManager1]
+Speakers=((PawnName="Tueur3a",Sentences=("Як виглядає ціль? В нас навіть фото немає!","Хa! Хa! Хa!")),(PawnName="Tueur2b",Sentences=("Все просто. Якщо ви побачите жінку, яка злякається, коли побачить вас - хапайте її!")))
+
+[DialogueManager6]
+Speakers=((PawnName="Tueur1c",Sentences=("Прокляття! Тут холодно","Ой, лайно. Забув погодувати собак, вранці!")))
+
+[DialogueManager8]
+Speakers=((PawnName="Mangouste",Sentences=("Знайдіть дівчину раніше за нього.")))
+
+[DialogueManager4]
+Speakers=((PawnName="Tueur3d",Sentences=("Я стомився. Давайте повернемося назад!","Я його загубив.")),(PawnName="Tueur1d",Sentences=("Стулися! І дай мені свій компас!","Ти ЩО...? ")))
+
+[LevelSummary]
+Title=Kello01a
+
+[DialogueManager3]
+Speakers=((PawnName="Tueur3c",Sentences=("Агов! Ви де, хлопці? Хлопці?","Ал-ло!")))
+
+[DialogueManager9]
+Speakers=((PawnName="tueur4",Sentences=("Ласкаво просимо до Канзасу, виродку!")))
+
+[XIIISaveGameTrigger3]
+SaveDescription=Kello01a
+
+[XIIISaveGameTrigger8]
+SaveDescription=Kello01a 1st Check Point
+
+[Kello0]
+Objectif=((GoalText="Знайдіть хатину"))
+TexteDuBriefing=Я розумію твоє розчарування, мій хлопчику, але є деякі важкі істини, які треба визнати... Як тільки ти повернешся, ми підведемо підсумки твого минулого. Тим часом мій подвійний агент повинен пролити світло на вашу особу. Заміський будинок, у якому він розміщений, також може навіяти деякі спогади. Щоб знайти його, тобі доведеться пройти вздовж озера Кілоуні, перш ніж повернути ліворуч. Стежка дозволить тобі піднятися на пагорб, на вершині якого ви повинні помітити кам'яну арку. Вона приховує стежину, яка веде до будинка. Тобі доведеться на нього піднятися. Щодо вбивць мангуста...не проявляй милосердя!

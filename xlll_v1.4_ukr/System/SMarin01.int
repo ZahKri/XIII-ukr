@@ -1,0 +1,86 @@
+[LevelInfo0]
+Title=SM01
+
+[CWndSFXTrigger16]
+OverLayMessage0=("СТОП!")
+
+[CWndSFXTrigger12]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[CWndSFXTrigger13]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[CWndSFXTrigger9]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[CWndSFXTrigger11]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[SMarin3]
+sClefPorte=clef de porte
+Objectif=((GoalText="Знайдіть радіо та зв'яжіться з Джонс."),(GoalText="Сховайтеся в каюті офіцера."),(GoalText="Вас не повинні помітити, капітан повинен лишитися живим."))
+MessageGameOver=("","","У вас немає жодного шансу втекти.")
+
+[CWndSFXTrigger20]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[DialogueManager11]
+Speakers=((PawnName="SheridanF",Sentences=("","Це номер I. Що сталося?","Ти не повинна була дзвонити мені, доки не отримаєш сигнал.","Номер XVII?... Прийом, Номер XVII? Я тебе не чую!")),(PawnName="Kim",Sentences=("","","","Номер I? Номер I? Доповідає номер XVII.","Прийом?","Я передала крайні задачі номеру XI. Чекаю ваших інструкцій.")),(PawnName="SheridanF",Sentences=("Виконай завдання!")),(PawnName="Kim",Sentences=("Це номер XVII. Продовжуй місію!","За кілька секунд я зв'яжусь з номером I.","Спробуй викрити людину, що відповість на мій дзвінок, і ми нарешті з'ясуємо, ким є насправді Номер І.")))
+
+[MessageTrigger4]
+TriggeredMsg=початок передачі
+
+[MessageTrigger5]
+TriggeredMsg=Передача вже почалася
+
+[XIIISaveGameTrigger3]
+SaveDescription=субмарина контрольна точка1
+
+[CWndSFXTrigger26]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[CWndSFXTrigger18]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[CWndSFXTrigger19]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[CWndSFXTrigger10]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[DialogueManager2]
+Speakers=((PawnName="SM2",Sentences=("Звіт, як наказано, капітане!","Так точно, Капітане!")),(PawnName="Pacha",Sentences=("Мене не турбувати протягом наступних п’ятнадцяти хвилин.","Це номер VII! Повторюю, це номер VII!","Я зсунув час відправки судна Петріот в цілях охорони вантажу.","Табір спец. загону зазнав великих втрат. Номер XI загинув.")),(PawnName="Sheridan",Sentences=("Це номер I. Прийом.","Зміни курс і відчальте від гавані у Меріленд на борту плавучого доку Резолют AFDM-10. Головне, виконай завдання!")))
+
+[CWndSFXTrigger15]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[DialogueManager10]
+Speakers=((PawnName="SM2",Sentences=("Звіт, як наказано, капітане!","Так точно, Капітане!")),(PawnName="Pacha",Sentences=("Мене не турбувати протягом наступних п’ятнадцяти хвилин.","Це номер VII! Повторюю, це номер VII!","Я зсунув час відправки судна Петріот в цілях охорони вантажу.","Табір спец. загону зазнав великих втрат. Номер XI загинув.")),(PawnName="Sheridan",Sentences=("Це номер I. Прийом.","Зміни курс і відчальте від гавані у Меріленд на борту плавучого доку Резолют AFDM-10. Головне, виконай завдання!")))
+
+[CWndSFXTrigger17]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[DialogueManager12]
+Speakers=((PawnName="normJones",Sentences=("Судно Петріот! Повідомте про місце призначення. Прийом.","Прийнято. Кінець зв'язку.")),(PawnName="XIII",Sentences=("Пункт призначення штат Мерілленд, плавучий док Резолют AFDM-10. Прийом.","Ось, гарне місце для безбілетного проїзду...")))
+
+[CWndSFXTrigger8]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[CWndSFXTrigger14]
+OverLayMessage0=("ТРИВОГА !!!")
+
+[DialogueManager9]
+Speakers=((PawnName="HP2",Sentences=("Приготуватись до занурення!","Відкрити клапани основної баластної цистерни. Виконувати.","Занурення. Занурення.","Занурення! Занурення!","Зовнішні палуби занурені.","Носова і кормова частини занурені. Тримати курс 12 градусів. Виконувати.")))
+
+[DialogueManager0]
+Speakers=((PawnName="XIIIa",Sentences=("Номер I... Я був так близько...","Я просто повинен згадати його обличчя...")))
+
+[DialogueManager1]
+Speakers=((Sentences=("Ррррррр... зззззз...","Ррррррр... зззззз...")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=субмарина початок
+
+[LevelSummary]
+Title=SM01
+

@@ -1,0 +1,111 @@
+[LevelInfo0]
+Title=Base01
+
+[Porte2]
+LockedMessage=Двері зачинено
+
+[Porte3]
+LockedMessage=Двері зачинено
+
+[XIIIMoverVarTime3]
+LockedMessage=Двері зачинено
+
+[DialogueManager10]
+Speakers=((PawnName="Jones",Sentences=("Прийом?","Я тебе ледве чую!","Де ти знаходишся?")))
+
+[DialogueManager2]
+Speakers=((PawnName="hpl",Sentences=("Готовність до відправлення.")))
+
+[DialogueManager1]
+Speakers=((PawnName="SPADS1a",Sentences=("Чому припинили завантаження?","Що? Його ж наче вбили.","Ну, хлопці вже повертаються, тож скоро дізнаємось правду.")),(PawnName="SPADS2",Sentences=("Чув нещодавній вибух?","Вочевидь це зробив Стів Ролланд!","Так. Це дивно...","Сподіваюсь. Я трохи нервую!")))
+
+[XIIIMoverVarTime0]
+LockedMessage=Двері зачинено
+
+[XIIIMoverVarTime2]
+LockedMessage=Двері зачинено
+
+[DialogueManager13]
+Speakers=((PawnName="spads3a",Sentences=("Добре. Можемо йти.")),(PawnName="spads2a",Sentences=("Нумо. Вперед!")))
+
+[DialogueManager20]
+Speakers=((PawnName="HPh",Sentences=("Судно Петріот, задраїти люки через п'ятнадцять хвилин.")))
+
+[DialogueManager15]
+Speakers=((PawnName="HPc",Sentences=("Жодного стукоту, шліфування чи зварювання. Триває переміщення ракети.")))
+
+[PorteDecors4]
+LockedMessage=Двері зачинено
+
+[PorteDecors1]
+LockedMessage=Двері зачинено
+
+[XIIIMover0]
+LockedMessage=Двері зачинено
+
+[DialogueManager0]
+Speakers=((PawnName="SPADS1b",Sentences=("Вона подумала, що я відведу її в якесь романтичне місце у вихідні. Як би не так.","Ми з братами пішли на риболовлю. Я впіймав, друже велику щуку!","Ну... З того часу ми з нею ще не спілкувалися.","Угу...")),(PawnName="SPADS3",Sentences=("То як ти поступив? ","Круто! Бренда її приготувала?","Оу.")))
+
+[PorteDecors6]
+LockedMessage=Двері зачинено
+
+[PorteDecors0]
+LockedMessage=Двері зачинено
+
+[PorteDecors5]
+LockedMessage=Двері зачинено
+
+[DialogueManager11]
+Speakers=((PawnName="HPa",Sentences=("Черговий офіцер, з'явитися на центральний місток!")),(PawnName="hp1",Sentences=("Закриття захисних люків.")))
+
+[LevelSummary]
+Title=База01
+
+[PorteDecors2]
+LockedMessage=Двері зачинено
+
+[PorteDecors3]
+LockedMessage=Двері зачинено
+
+[PorteDecors10]
+LockedMessage=Двері зачинено
+
+[PorteDecors7]
+LockedMessage=Двері зачинено
+
+[DialogueManager19]
+Speakers=((PawnName="HPg",Sentences=("Черговий офіцер з'явитися на палубу.")))
+
+[XIIIMoverVarTime1]
+LockedMessage=Двері зачинено
+
+[DialogueManager22]
+Speakers=((PawnName="HPj",Sentences=("Звільнити трап.")),(PawnName="hpk",Sentences=("Відшвартуватися.")))
+
+[DialogueManager18]
+Speakers=((PawnName="HPf",Sentences=("Головний Корабельний Старшина Мітчелгроув, з'явитися у відділ Е.")))
+
+[DialogueManager14]
+Speakers=((PawnName="HPb",Sentences=("Весь наявний персонал повинен з'явитися на причал для виконання обов'язків.")))
+
+[Base0]
+Objectif=((GoalText="Проникніть на субмарину до того, як вона вирушить."),(GoalText="Не дозволяйте противнику увімкнути тривогу."))
+
+[DialogueManager17]
+Speakers=((PawnName="HPe",Sentences=("Усім робітникам з'явитися на ракетну палубу за п'ять хвилин.")))
+
+[XIIISaveGameTrigger7]
+SaveDescription=База01 контрольна точка 1
+
+[MessageTrigger12]
+TriggeredMsg=Зона 04 зачинено.
+
+[DialogueManager16]
+Speakers=((PawnName="HPd",Sentences=("Корабельний Старшина Першого Класу Бейкер, з'явитися на трап.")))
+
+[DialogueManager21]
+Speakers=((PawnName="HPi",Sentences=("Капітан Едельбрайт сходить на борт.")))
+
+[XIIISaveGameTrigger2]
+SaveDescription=База01
+

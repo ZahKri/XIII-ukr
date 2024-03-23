@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title=bateau01
+
+[XIIISaveGameTrigger0]
+SaveDescription=Bateau01 - begining
+
+[DialogueManager6]
+Speakers=((PawnName="Jones",Sentences=("Агов! Флаю!","Як тобі моя нова форма?","Ну? ","Я знаю...","Що таке? Забув як вимовляти слова?","Я знаю...","Керрінгтон дуже хотів переговорити з тобою. Знайди його. А після цього вже я маю до тебе розмову...  ")),(PawnName="Bank2",Sentences=("Крихітко, ти неймовірна!","А також весела!","Не зацікавив, га?","Хммм")))
+
+[DialogueManager2]
+Speakers=((PawnName="Kim",Sentences=("Хнюп...хнюп...хнюп","Благаю тебе, Віллі. Поверни мого сина!","Aaaа!","Хнюп...хнюп...хнюп")),(PawnName="Sheridan",Sentences=("","","","","У нас була угода, Кім.","У тебе був шанс позбутися XIII! Чому ти це не зробила?")))
+
+[DialogueManager5]
+Speakers=((PawnName="Sheridan",Sentences=("","","","","","","Не до вподоби феєрверки, пане Флаю?")))
+
+[DialogueManager7]
+Speakers=((PawnName="Sheridan"),(PawnName="Mangouste",Sentences=("Це Мангуст... Повторюю... Це Мангуст...","Номер I! Прийом?")),(PawnName="SheridanF",Sentences=("Номер I на зв'язку! Чую чітко та розбірливо....")),(PawnName="KimF",Sentences=("Ти його Бачиш? Хто номер І? Скажи мені! Хутко!")),(PawnName="XIII",Sentences=("")))
+
+[DialogueManager1]
+Speakers=((PawnName="Carrington",Sentences=("А! Ось і він!","Гей, де твій смокінг?","Куди подівся Віллі? Він повинен це побачити!","Вау!")),(PawnName="Amos",Sentences=("Привіт, Флаю. Нарешті вдалось зустрітися за кращих обставин!","Флаю! Чи можеш ти привести його?","Неймовірно!")),(PawnName="Fem",Sentences=("Ходімо всі до передньої частини човна!","Вперед!")),(PawnName="Hom",Sentences=("","Aaaa!")),(PawnName="Employee2",Sentences=("Он! Дивись-но!","Посунься. Я нічого не бачу!","Неймовірно!")),(PawnName="Employee1",Sentences=("Хмммм... Я бачив і кращий...","Вау!")),(),(PawnName="Hom",Sentences=("Вау!")))
+
+[DialogueManager0]
+Speakers=((PawnName="Sheridan",Sentences=("Власне кажучи, ось він. Джейсон Флай! Наш національний герой!")),(PawnName="Bank1",Sentences=("Це велика честь.")))
+
+[Map17_Epilogue0]
+Objectif=((),(GoalText="Знайдіть Вільяма Шерідана"))
+MessageMissionSuccess=Далі буде…
+
+[DialogueManager4]
+Speakers=((PawnName="Sheridan",Sentences=("","Будь ласка, не обділи увагою гостей. Вони просто вмирають від бажання зустрітися з тобою!","Сподіваюсь ти не нудьгуєш","Я доєднаюся через хвилину.")),(PawnName="Bank1"),(PawnName="Jones"))
+
+[LevelSummary]
+Title=bateau01
+
+[XIIIDocumentPick0]
+Information=SOME INFO ON I
+

@@ -1,0 +1,29 @@
+[LevelInfo0]
+Title=spads01
+
+[DialogueManager3]
+Speakers=((PawnName="hfJones",Sentences=("Згідно з картою, біля сторожової вежі є каналізація. Стережись прожектора.","Добре. Тепер знайди намет Макколла та встанови пристрій прослуховування!")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=SPADS01
+
+[Spads0]
+Objectif=((),(GoalText="Проникнути в табір загону спец. призначення"),(GoalText="Вас не повинні помітити"))
+MessageGameOver=("Піднято тривогу: таємне засідання скасовано.")
+TexteDuBriefing=Si les informations fournies par Kim s'averent exactes, le General Standwell et le Senateur Willard devraient arriver sur l'ile d'un moment a l'autre. Ta mission consiste a dissimuler un micro dans la tente du Colonel Mac Call afin de me permettre d' enregistrer la reunion a distance. Je soupconne egalement le Colonel Mac Call de faire transiter d'importants stocks d'armes par le camps SPADS. Si l'operation reussit tu devras detruire ces munitions avant de quitter l'ile. Bonne chance ! Le Major Jones.
+
+[DialogueManager2]
+Speakers=((PawnName="SPADS2",Sentences=("У нас гості, капітане. Які наші дії?","Але нас можуть помітити!","Так точно!")),(PawnName="SPADS3b",Sentences=("Продовжуйте завантажувати субмарину.","Що я щойно сказав? Виконувати!")))
+
+[DialogueManager0]
+Speakers=((PawnName="Standwell",Sentences=("Чи є новини про номер XIII?","Захоплююся вашим оптимізмом полковнику Макколле. А як щодо екскурсії по табору? Я хотів би поглянути на наш запас озброєння...")),(PawnName="Willard",Sentences=("Я певен, Мангуст обов'язково подбає про нього. Давайте не турбувати номер І з цього приводу!")),(PawnName="McCall",Sentences=("В будь якому випадку, номер XIII не зможе порушити наші плани. Мої люди готові, генерале Стендвелл.","Після свого воскресіння він влаштував неабиякий шум, але перший етап навчань відбувається за планом.","Звичайно, генерале. Сюди!")))
+
+[LevelSummary]
+Title=spads01
+
+[DialogueManager4]
+Speakers=((PawnName="SPADS1a",Sentences=("Тривога! Порушник!")),(PawnName="SPADS3d",Sentences=("Вбити його!")))
+
+[DialogueManager1]
+Speakers=((PawnName="SPADS1",Sentences=("Ці новачки думають, що вони, бляха, Рембо !","Де б це не було, він точно зібрав відбиту команду...")),(PawnName="SPADS3a",Sentences=("Де, в біса, Макколл знайшов цих дурнів?")))
+

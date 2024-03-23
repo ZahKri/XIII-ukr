@@ -1,0 +1,75 @@
+[LevelInfo0]
+Title=PRock01a
+
+[DialogueManager6]
+Speakers=((PawnName="Maton1",Sentences=("","","","","","","","","","","","Гей! Хлопці! Годі возитися!","Швидше! Йоханссон чекає на нас!")),(PawnName="Maton3a",Sentences=("","","","Лa Лa Лa!")))
+
+[XIIISaveGameTrigger1]
+SaveDescription=Контрольна точка2
+
+[DialogueManager10]
+Speakers=((PawnName="Maton3d",Sentences=("Ось де він! Схопити!")))
+
+[DialogueManager5]
+Speakers=((PawnName="Maton3c",Sentences=("Бачу амнезійного!")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=Контрольна точка1
+
+[DialogueManager0]
+Speakers=((PawnName="SPADS1",Sentences=("Тепер, коли я вилікувався, докторе, чи можу я знову повернутись до свого підрозділу?","Аххх... Хa! Хa! Хa!","Довбень! Довбень! Макколл повний довбень! Хa! Хa! Хa!","Так точно, полковнику!","Хнюп...хнюп...хнюп")),(PawnName="Johansson",Sentences=("Наш новий пацієнт почувається краще?","Отже, друже, я чув, що ти страждаєш на амнезію...?","Не переймайся. Плейн-Рок має чудовий неврологічний центр!","Терпіння... Він щойно отямився.","Я негайно займусь цим.","Помийте його зі шлангу і приведіть до мене!")),(PawnName="Mangouste",Sentences=("То як? Він заговорив?","Номеру I потрібні імена його спільників.","Номер XVII може бути не єдиним диверсантом, що проник до нас!","Оглянь його грудину на наявність слідів від трьох куль, що я всадив у нього!","Я починаю сумніватися в особистості цієї людини...")),(PawnName="Maton2a",Sentences=("Хa! Хa! Хa!")),(PawnName="Maton1",Sentences=("Без різких рухів, хлопче.","Хa! Хa! Хa!")),(PawnName="Maton1x",Sentences=("Стулися!")))
+
+[LevelSummary]
+Title=PRock01a
+
+[DialogueManager2]
+Speakers=((PawnName="Fou2a",Sentences=("О! Ууу! Який чудовий день!")),(PawnName="Fou1b",Sentences=("Хтось може підказати мені напрямок? Я не місцевий!")),(PawnName="Fou1c",Sentences=("Едді?  Це ти?  Едді...Едді?")))
+
+[DialogueManager3]
+Speakers=((PawnName="Fou2c",Sentences=("Я програміст!... Випустіть мене!... Випустіть мене! Ви не чуєте? Якщо виправлення не буде випущено до вівторка, ми ніколи не оновимо версію 1.5.01 до 1.5.02! Ви чуєте? Ніколи!")),(PawnName="fou2a",Sentences=("","Ууухххх...")))
+
+[DialogueManager4]
+Speakers="((PawnName="Fou3c",Sentences=("Fashion Square дякує вам за вашу підтримку та бажає гарного дня!","Дякую, пані Джеймісон. Будь ласка, приходьте знову!","Чому ви мовчите, пані Джеймісон? Я не такий вже й нудний. Нумо! Поставимо вашу голову назад. У мене є абсолютно нова лінія поясів для вас!")))"
+
+[DialogueManager1]
+Speakers=((PawnName="Fou3b",Sentences=("Ууухххх...","Ооохххх!")))
+
+[XIIISaveGameTrigger2]
+SaveDescription=Debut
+
+[DialogueManager15]
+Speakers=((PawnName="HP",Sentences=("","Тривога. Пацієнт втік з рівня 1. Наближатись з особливою обережністю. Вогонь на ураження. ")))
+
+[DialogueManager14]
+Speakers=((PawnName="Fou1a",Sentences=("Хa! Хa! Хa!","Грррррр...")))
+
+[DialogueManager12]
+Speakers=((PawnName="Fou3a",Sentences=("","Шурх... Шурх... Шурх ")))
+
+[DialogueManager13]
+Speakers=((PawnName="Maton2b",Sentences=("Мммм... Схоже, у нас з’явився новий хлопчик...","Залиш його мені! Ти зможеш погратись з ним потім!")),(PawnName="Maton3b",Sentences=("Ти це бачиш, Дереку??","Сюди! Сюди!")))
+
+[DialogueManager9]
+Speakers=((PawnName="Maton3b",Sentences=("","","Хa! Хa! Хa!")))
+
+[DialogueManager7]
+Speakers=((PawnName="Maton1",Sentences=("","","За мною!")),(PawnName="Maton2a",Sentences=("","Крок уперед!")))
+
+[DialogueManager8]
+Speakers=((PawnName="Maton1",Sentences=("","","","","","Вниз по сходах!","Наказ доктора Йоханссона.","А він, що не підійде?","Ти щасливий песик. Отримав всю ванну кімнату у своє розпорядження!","Ворушись!","Заходь!")),(PawnName="Maton3a",Sentences=("Хто це? Ви повинні були привести солдата!","Дерек і Джеррі будуть розчаровані.","Добре...")),(PawnName="HP",Sentences=("Докторе Майкле - до 11-ї кімнати.")))
+
+[PRock01a0]
+sClefPorteLocal=Key
+sClefEscaliers=Key
+sClefCouloir=Key
+sClefEntreeRotonde=Key
+sClefSortieRotonde=Key
+sClefDebarrasLingerie=Key
+Objectif=((GoalText="Слідуйте за охоронцями, щоб уникнути побиття."),(GoalText="Знайдіть спосіб втекти з в'язниці."))
+
+[XIIISaveGameTrigger3]
+SaveDescription=Після ролика
+
+[DialogueManager11]
+Speakers=((PawnName="Fou3a",Sentences=("Иииии... еииии... иееее... ")))
+

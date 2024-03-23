@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title=PRock04a
+
+[DialogueManager10]
+Speakers=((PawnName="Tueur1",Sentences=("","Скуштуй це!")))
+
+[DialogueManager8]
+Speakers=((PawnName="Tueur1a",Sentences=("Зв'яжись з Мангустом! Потрібна підмога!")))
+
+[DialogueManager6]
+Speakers=((PawnName="Tueur1",Sentences=("До біса все! Дай-но мені РПГ, зараз я з ним розберусь!")))
+
+[DialogueManager9]
+Speakers=((PawnName="Tueur4",Sentences=("Він прикінчив Вінса!")))
+
+[DialogueManager7]
+Speakers=((PawnName="Tueur4b",Sentences=("Бачу його! Ось там!")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=Premier Checkpoint Prock04a
+
+[DialogueManager1]
+Speakers=((PawnName="hfJones",Sentences=("Це ще хто така? Досить забавлятися, чуєш? Мангуст і його люди вже полюють на тебе.","Я сховала твоє таксі на дні каньйону. Не затримуйся, бо накапають відсотки за очікування. Зрозумів?")))
+
+[LevelSummary]
+Title=PRock04a
+
+[DialogueManager0]
+Speakers=((PawnName="Infirmiere2",Sentences=("Не знаю, хто ти, але я тебе ніколи не забуду.","Агов, щасти тобі!")))
+
+[PRock04a1]
+Objectif=((GoalText="Знайдіть вхід у шахту, щоб возз'єднатися з Джонс."),())
+MessageGameOver=("","Ви вбили невинну людину.")
+
+[XIIISaveGameTrigger1]
+SaveDescription=Plainrock 04a Acte I
+
+[XIIISaveGameTrigger4]
+SaveDescription=Come Get Some Prock04a
+
+[explosif4]
+LockedMessage=
+

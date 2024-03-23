@@ -1,0 +1,113 @@
+[DialogueManager11]
+Speakers=((PawnName="Employee1",Sentences=("","","Не ... Не робіть мені боляче!...")),(PawnName="Vigile1b",Sentences=("Не ворушись!")))
+
+[MessageTrigger2]
+TriggeredMsg=Деякі об'єкти можна використати як зброю: щоб узяти ОБ'ЄКТ, натисніть клавішу “ДІЇ”.
+
+[MessageTrigger4]
+TriggeredMsg=Коли з'явиться червона іконка, натисніть клавішу “ДІЇ”.
+
+[MessageTrigger6]
+TriggeredMsg=Ворог не буде стріляти доки вас прикриває ЗАРУЧНИК. Ви можете використовувати зброю однією рукою.
+
+[MessageTrigger7]
+TriggeredMsg=Щоб узяти ЗАРУЧНИКА, непомітно підійдіть до вашої цілі.
+
+[MessageTrigger5]
+TriggeredMsg=Щоб звільнити ЗАРУЧНИКА, натисніть клавішу “ДІЇ”.
+
+[DialogueManager6]
+Speakers=((PawnName="Employee1",Sentences=("Ух! Ця сирена діє мені на нерви! Якби цей грабіжник просто взяв заручника, ми б могли вимкнути цю кляту штуку!","Господи!","Не ... Не робіть мені боляче!...")))
+
+[DialogueManager5]
+Speakers=((PawnName="Vigile1b",Sentences=("","","Де він в біса?","Що в тебе?")),(PawnName="Vigile2c",Sentences=("Ні!")))
+
+[DialogueManager0]
+Speakers=((PawnName="Vigile2",Sentences=("Будь ласка, підійдіть до менеджера.")))
+
+[DialogueManager2]
+Speakers=((PawnName="Vigile2a",Sentences=("Добрий день, пане Ролланде.")))
+
+[DialogueManager1]
+Speakers=((PawnName="Bank1",Sentences=("Пане Ролланде... Давно ви до нас не заходили.","Я припускаю, що ви бажаєте отримати доступ до своєї комірки?","Дозвольте Ваш ключ?","Гхм! Сюди, будь ласка.","Як бачите, ми оновили систему безпеки.","У сучасному світі не можна бути надто обережним, чи не так?","Вітаю, Джеймсе. Пане Ролланд бажає отримати доступ до своєї комірки.","Вона все ще в дальньому кінці кімнати.","Покличте мене, коли завершите свої справи.","Пане Ролланде? Що відбувається?","Гхм! Пане Ролланде? Сюди, будь ласка...")))
+
+[DialogueManager4]
+Speakers=((PawnName="Fem",Sentences=("","Не лізь без черги!")))
+
+[DialogueManager3]
+Speakers=((PawnName="Winslow",Sentences=("Ти глухий? Я сказав, Номер XIII живий! Повідом Мангуста про це. Негайно приведіть його сюди!","Купка недоумків!")))
+
+[LevelSummary]
+Title=Banque01
+
+[DialogueManager12]
+Speakers=((PawnName="XIII",Sentences=("","","Так, так!")),(PawnName="Vigile1x",Sentences=("Не розумію цю систему безпеки... Уф... Як ти опустив ворота?")))
+
+[MessageTrigger3]
+TriggeredMsg=Щоб з'ясувати де ворог, пересувайтеся повільно та не стріляйте. Ви побачите його кроки у вигляді “TAP, TAP”.
+
+[DialogueManager19]
+Speakers=((PawnName="Vigile1d",Sentences=("2 Альфа 1-8. Чутно постріли у Вінслоу Банк. Необхідне підкріплення.")),(PawnName="Employee1b",Sentences=("Зрозумів 2 Альфа 1-8. Проводимо пошук вільного підрозділу. Висилаємо підкріплення.")))
+
+[DialogueManager7]
+Speakers=((PawnName="FBI1",Sentences=("Центральна, це Авто 5. Загін вже прибув на позицію.")),(PawnName="FBI2",Sentences=("ФБР! Кидай зброю!")),(PawnName="Amos",Sentences=("Стіве Ролланде. Вас заарештовано за вбивство Вільяма Шерідана!")),(PawnName="Employee1d",Sentences=("Говорить Центральна. Усім підрозділам в районі Вінслоу Банк. Прийом.","Прийнято, Авто 5. Чекаємо на ваш звіт.")))
+
+[LevelInfo0]
+Title=Banque01
+
+[DialogueManager8]
+Speakers=((PawnName="jones",Sentences=("Керрінгтон мав рацію. Вони проковтнули наживку!            ","Та це справжній скарб! Номер XX вбив би за можливість отримати ці дані.","Ми викримо їх усіх! Від Номера XX до Номера I! ","Що ти плануєш робити на тому човні? Секретна інформація? О, зрозуміло. Ну, якщо це ще одна ідея тієї дівки, я б радила тобі бути обережним... Від неї суцільні проблеми.","Вперед! Встановлюй бомбу!")))
+
+[DialogueManager10]
+Speakers=((PawnName="XIII",Sentences=("","Я втрапив у власну пастку...")))
+
+[Banque0]
+Objectif=((GoalText="Потрапити до сховища."),(GoalText="Втекти з банку."),(GoalText="Не вбивайте працівників банку."),())
+MessageGameOver=("","","Ви вбили невинну людину.","")
+MessageMissionSuccess=Вас заарештовано.
+
+[DialogueManager9]
+Speakers=((PawnName="vigile1c",Sentences=("Їх декілька! Вишліть підмогу. Гей! Ти! Стій на місці!... Кидай зброю!","Ааххх !")),(PawnName="Tueur2",Sentences=("Чисто. Знайдіть Ролланда! ")),(PawnName="Tueur1",Sentences=("Я його знайшов!")))
+
+[MessageTrigger1]
+TriggeredMsg=Щоб НОКАУТУВАТИ ворога, непомітно підійдіть до нього ззаду та натисніть клавішу “АТАКИ”.
+
+[DialogueManager22]
+Speakers=((PawnName="jones",Sentences=("","","","Що ти плануєш робити на тому човні? Секретна інформація? О, зрозуміло. Ну, якщо це ще одна ідея тієї дівки, я б радила бути обережним... Від неї суцільні проблеми.")))
+
+[DialogueManager15]
+Speakers=((PawnName="Fem",Sentences=("Гей!")))
+
+[DialogueManager17]
+Speakers=((PawnName="Bank1",Sentences=("Пане Ролланде... Давно ви до нас не заходили.","Я припускаю, що ви бажаєте отримати доступ до своєї комірки?","Дозвольте Ваш ключ?","Гхм! Сюди, будь ласка.","Як бачите, ми оновили систему безпеки.","У сучасному світі не можна бути надто обережним, чи не так?","Вітаю, Джеймсе. Пане Ролланд бажає отримати доступ до своєї комірки.","Вона все ще в дальньому кінці кімнати.","Покличте мене, коли завершите свої справи.","Пане Ролланде? Що відбувається?","Гхм! Пане Ролланде? Сюди, будь ласка...")))
+
+[DialogueManager20]
+Speakers=((PawnName="Vigile2",Sentences=("","Гей! В чому твоя проблема, чувак?")))
+
+[DialogueManager23]
+Speakers=((PawnName="FBI2",Sentences=("ФБР! Кидай зброю!")),(PawnName="Amos",Sentences=("Стіве Ролланде. Вас заарештовано за вбивство Вільяма Шерідана!")))
+
+[DialogueManager24]
+Speakers=((PawnName="XIII",Sentences=("Таймер...")))
+
+[DialogueManager18]
+Speakers=((PawnName="bank1b",Sentences=("Не панікуй! Будь ласка, спокійно!")))
+
+[DialogueManager16]
+Speakers=((PawnName="Employee1",Sentences=("","Господи!","Не ... Не робіть мені боляче!...")))
+
+[DialogueManager14]
+Speakers=((PawnName="jones",Sentences=("","","","","Вперед! Встановлюй бомбу!")))
+
+[DialogueManager21]
+Speakers=((PawnName="Bank1",Sentences=("","","","","","","","","","Пане Ролланд? Що відбувається?")))
+
+[MessageTrigger0]
+TriggeredMsg=Натисніть клавішу “АТАКИ”, щоб нокаутувати ворога.
+
+[DialogueManager13]
+Speakers=((PawnName="Vigile1b",Sentences=("","Стріляти без попередження, хлопці!")))
+
+[Porte5]
+LockedMessage=
+

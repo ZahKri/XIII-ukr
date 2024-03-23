@@ -1,0 +1,43 @@
+[LevelInfo0]
+Title=usa02
+
+[DialogueManager1]
+Speakers=((PawnName="SPADS1",Sentences=("","","","","Що це за лайно?","Хто, в біса, відповідає за ящики навколо?","Треба буде це все прибрати.")),(PawnName="SPADS2c",Sentences=("Боже милостивий!","Мене зараз знудить…")))
+
+[DialogueManager0]
+Speakers="((PawnName="Spads1",Sentences=("Стеж за входом в ангар! Я з'ясую, що відбувається в штабі…","Ні, не можу додзвонитися до табору. У нас проблеми зі зв'язком!","Коли мені буде потрібна ваша думка, сержанте, я вам повідомлю. Продовжуйте чергування!")),(PawnName="SPADS2a",Sentences=("Є якісь новини від полковника Макколла ?","Можливо це в них проблеми зі зв'язком, капітане?","Так точно.")))"
+
+[XIIISaveGameTrigger4]
+SaveDescription=mapstart
+
+[DialogueManager6]
+Speakers=((PawnName="XIII",Sentences=("Це повинно допомогти з радіомовчанням.")),(PawnName="SPADS1c",Sentences=("Тримайтеся, хлопці! Ластівочка вже попрямує до Доку 33. Повторюю, тримайтеся!")))
+
+[Usa0]
+Objectif=((GoalText="Знайдіть Керрінгтона на набережній 33."),())
+MessageGameOver=("","Ви вбили невинну людину.")
+
+[DialogueManager9]
+Speakers=((PawnName="Amos",Sentences=("Стіве Ролланде! Киньте зброю і повільно крокуйте вперед, піднявши руки вгору!","Генерал Керрінгтон сказав, що у вас є щось для мене.")))
+
+[LevelSummary]
+Title=usa02
+
+[DialogueManager5]
+Speakers=((PawnName="Spads1",Sentences=("","","","Макколл не виходив на зв'язок продовж 24-х годин, також я чув, що наш табір перемістять з міркувань безпеки.")),(PawnName="SPADS2a",Sentences=("","","")),(PawnName="SPADS2b",Sentences=("І чому капітан такий нервовий?","Говори за себе!")),(PawnName="SPADS3",Sentences=("Можете поцілувати своє спорядження на прощання. Якщо нам доведеться переїхати, навряд чи буде час на збори. Сподіваюся, ми залишимося на півдні. Але якщо Пентагон запанікує? Ми можемо опинитися на якійсь підземній базі!","Ммгм...")))
+
+[DialogueManager3]
+Speakers=((PawnName="SPADS2d",Sentences=("Альфа викликає Омегу! Потрібна підтримка. Тут повний безлад!")),(PawnName="SPADS1b",Sentences=("Прийнято, Альфа. Підкріплення вже в дорозі.")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=helico
+
+[DialogueManager4]
+Speakers=((PawnName="Amos",Sentences=("Стіве Ролланде! Киньте зброю і повільно крокуйте вперед, піднявши руки вгору!","Генерал Керрінгтон сказав, що у вас є щось для мене.")),(PawnName="Carrington",Sentences=("Віддай йому дось'є Ролланда, синку.")))
+
+[DialogueManager2]
+Speakers=((PawnName="SPADS3",Sentences=("","","Aaaaа!")))
+
+[UnLockerPick0]
+PickupMessage=
+

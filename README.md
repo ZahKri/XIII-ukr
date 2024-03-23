@@ -1,2 +1,23 @@
-# XIII-ukr
-Ukrainian localization for XIII the game Classic
+# Українська локалізація XIII Classic
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
+Аматорський переклад XIII Classic.
+За основу взято англійську версію гри.
+
+### Перекладено
+ - меню та супутню інформацію (окрім мультиплеєра)
+ - основний сюжет
+ - ономатопеї (опис звуків словами, на кшталт "бах", "туп", тощо)
+ - текстури викриків та спрайти "тривога"
+ - у відео додано субтитри
+
+### Як встановити локалізацію?
+- Завантажуємо zip-архів
+- вміст розпаковуємо у кореневу теку гри
+
+### Важлива інформація
+Переклад проводився та тестувався на Steam-версії гри. Як оригінальній, так і з патчем 1.4.
+
+### Знайшли помилку у перекладі?
+[**Повідомити**](https://github.com/ZahKri/XIII-ukr/issues)

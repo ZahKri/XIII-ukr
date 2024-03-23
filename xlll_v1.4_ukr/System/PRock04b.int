@@ -1,0 +1,36 @@
+[LevelInfo0]
+Title=PRock04b
+
+[DialogueManager1]
+Speakers=((PawnName="Tueur1b",Sentences=("Ла-ла-ла!","Оуу... Спокійно…")),(PawnName="Tueur4c",Sentences=("Стулися!","Ла-ла-ла!")))
+
+[DialogueManager6]
+Speakers=((PawnName="Tueur4c",Sentences=("","Ла-ла-ла!")),(PawnName="Tueur4c",Sentences=("Ох, Стулися!")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=Prock04b - 01
+
+[LevelSummary]
+Title=PRock04b
+
+[DialogueManager4]
+Speakers=((PawnName="Tueur4",Sentences=("Розділимося! Обступимо його з флангу")))
+
+[DialogueManager3]
+Speakers=((PawnName="Tueur3",Sentences=("Вперед! Туди!")),(PawnName="Tueur2",Sentences=("Ми його спіймали, хлопці!")))
+
+[DialogueManager2]
+Speakers=((PawnName="Tueur1",Sentences=("Дай-но гранату!")))
+
+[DialogueManager0]
+Speakers=((PawnName="hfJonesA",Sentences=("Ти як? За руїнами є вихід. Літак знаходиться неподалік від нього.")))
+
+[DialogueManager5]
+Speakers=((PawnName="Tueur1",Sentences=("","Щось знайшов?","Продовжуємо пошуки!")),(PawnName="Tueur4",Sentences=("","Нічого!")),(PawnName="Tueur4b",Sentences=("Ось там. Дивись!")))
+
+[PRock04b0]
+Objectif=((GoalText="Джонс сховала неподалік літак. Знайдіть його."))
+
+[XIIISaveGameTrigger2]
+SaveDescription=PRock04b
+

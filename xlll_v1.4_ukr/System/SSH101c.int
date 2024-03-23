@@ -1,0 +1,73 @@
+[LevelInfo0]
+Title=ssh101c
+
+[DialogueManager4]
+Speakers=((PawnName="employee1",Sentences=("Дивіться ! Це ж полковник Маршалл!")),(PawnName="Employee2",Sentences=("Допоможіть! Звільніть нас!")),(PawnName="Sheridan",Sentences=("Обережно! Їх дуже багато.","")))
+
+[DialogueManager3]
+Speakers=((PawnName="hfCarrington",Sentences=("Це Керрінгтон! Ґелбрейн у безпеці, але він непритомний. Ніхто не знає код доступу в пункт управління ракетами. З'ясуй його та перерви процес запуску. Це твій єдиний шанс!")))
+
+[DialogueManager2]
+Speakers=((PawnName="HP1",Sentences=("Задіяно аварійну послідовність знищення.","Негайно евакуюйте приміщення.")))
+
+[DialogueManager1]
+Speakers=((PawnName="HFwax",Sentences=("Усі штурмові групи знаходяться на позиціях навколо стратегічних мережевих центрів.","Готуйтеся до оголошення надзвичайного стану.","Коли я дам сигнал, ви накажете всім підрозділам спец. загону взяти під контроль кожну базу!")))
+
+[DialogueManager8]
+Speakers=((PawnName="Employee2",Sentences=("","Швидше! Благаю, швидше!")))
+
+[MessageTrigger6]
+TriggeredMsg=BS_renfortWax2
+
+[MessageTrigger5]
+TriggeredMsg=BS_escalierHaut
+
+[DialogueManager10]
+Speakers=((PawnName="employee1",Sentences=("","","","","Якщо я це переживу - піду в маркетологи.")),(PawnName="Employee2",Sentences=("","","Швидше! Благаю, швидше!")),(PawnName="Sheridan",Sentences=("","2000 мегатонн готові вибухнути прямо під нами!","Вперед, треба тікати з бази!","Код?","Сюди!","Ні! Я ідіот! Чорт!","Код... Код... Який же код?","APX-420... ...Ні, HPX-604... ...AP... ...APH-624! Воно!","Фух!","Далі ти сам!")),(PawnName="XIII",Sentences=("Нема часу. Надайте код доступу. Хутко!")))
+
+[SSH101c0]
+Objectif=((GoalText="Зупиніть операцію Червоне Повстання."),(GoalText="Звільніть заручників."),(),())
+MessageGameOver=("","","Ви вбили невинну людину.","")
+
+[DialogueManager9]
+Speakers=((PawnName="wax",Sentences=("","","","","","","","","Ми помремо разом, XIII. І ніхто не дізнається особистість Номера І. Ти нічого не вдієш!")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=Total Red
+
+[DialogueManager6]
+Speakers=((PawnName="employee1",Sentences=("","","","","Якщо я це переживу - піду в маркетологи.")),(PawnName="Employee2",Sentences=("","Швидше! Благаю, швидше!")),(PawnName="Sheridan",Sentences=("","2000 мегатонн готові вибухнути прямо під нами!","Вперед, треба тікати з бази!","Код?","Сюди!","Ні! Я ідіот! Чорт!","Код... Код... Який же код?","APX-420... ...Ні, HPX-604... ...AP... ...APH-624! Воно!","Фух!","Далі ти сам!")),(PawnName="XIII",Sentences=("Нема часу. Надайте код доступу. Хутко!")))
+
+[MessageTrigger4]
+TriggeredMsg=BS_escalierBas
+
+[MessageTrigger0]
+TriggeredMsg=fin combat
+
+[MessageTrigger3]
+TriggeredMsg=wax_accroupi
+
+[LevelSummary]
+Title=ssh101c
+
+[CWndSFXTrigger0]
+OverLayMessage0=("Номер 2")
+
+[DialogueManager5]
+Speakers=((PawnName="wax",Sentences=("","","","","","Генерале Стендвелле! Прийом.","Прийом, чорт! Відповідайте. Генерале... Прийом... Генерале... Це Вакс...","Алло... Алло...")))
+
+[MessageTrigger1]
+TriggeredMsg=BS_renfortWax3
+
+[DialogueManager11]
+Speakers=((PawnName="employee1",Sentences=("","","","","Якщо я це переживу - піду в маркетологи.")))
+
+[MessageTrigger7]
+TriggeredMsg=BS_escalier2
+
+[DialogueManager0]
+Speakers=((PawnName="hfwax",Sentences=("","","","Вбийте цю людину, негайно!","Номере XIII, слухай мене. Ми можемо домовитись!")))
+
+[MessageTrigger2]
+TriggeredMsg=waxatoi
+

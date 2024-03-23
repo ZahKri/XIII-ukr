@@ -1,0 +1,66 @@
+[LevelInfo0]
+Title=ssh102b
+
+[DialogueManager0]
+Speakers=((PawnName="HP",Sentences=("Початок заключної фази послідовності знищення.")),(PawnName="HP",Sentences=("","Розпочато послідовність знищення.")),(PawnName="HP",Sentences=("","","Послідовність знищення скасовано.")))
+
+[DialogueManager2]
+Speakers=((PawnName="Mangouste",Sentences=("Вітаю, Номере XIII... чи може Джейсоне Флаю? Тобі треба з'ясувати це, перш ніж вигравіюють твій надгробок!","Що сталося? Проблеми з орієнтацією?","Якщо ти такий розумний, то знайди мене.","Досить хитрощів!","Виходь, боягуз! ","Все-таки ти боягуз. Хa! Хa! Хa!","Сюди!","Нумо, Флай!","Подарунок від Номера I!","Хa! Хa! Хa!","Хто...Хто ТИ? Скажи.")),(PawnName="XIII",Sentences=("Я дуже сумуватиму за цим старим виродком.")))
+
+[Explosif1]
+LockedMessage=
+
+[explosif0]
+LockedMessage=
+
+[DialogueManager4]
+Speakers=((PawnName="XIIIa",Sentences=("Це недобре")))
+
+[MessageTrigger2]
+TriggeredMsg=cc_3
+
+[DialogueManager5]
+Speakers=((PawnName="Jones",Sentences=("Сюди!","Вперед! Час евакуюватися!")),(PawnName="JonesMaj",Sentences=("Ще раз мене так налякаєш і я сама тебе вб'ю.")))
+
+[DialogueManager3]
+Speakers=((PawnName="JonesMaj",Sentences=("Слава Богу, ти живий!")),(PawnName="Carrington",Sentences=("Ти неймовірний сучий син!","Ти впорядку, Віллі?","Бьюсь об заклад! Хa! Хa! Хa!")),(PawnName="Sheridan",Sentences=("Все нарешті закінчилось?")))
+
+[MessageTrigger6]
+TriggeredMsg=jones_fight5
+
+[MessageTrigger3]
+TriggeredMsg=jones_fight
+
+[MessageTrigger7]
+TriggeredMsg=cc_30
+
+[MessageTrigger5]
+TriggeredMsg=jones_fight4
+
+[MessageTrigger4]
+TriggeredMsg=jones_fight3
+
+[SSH102b0]
+Objectif=((GoalText="Скасуйте процедуру самознищення бази."),(GoalText="Прямуйте до виходу."))
+
+[MessageTrigger8]
+TriggeredMsg=manette_pouet
+
+[XIIISaveGameTrigger1]
+SaveDescription=SSH102b - Зворотній відлік
+
+[MessageTrigger0]
+TriggeredMsg=cc_1
+
+[XIIISaveGameTrigger0]
+SaveDescription=SSH102b - Процес скасовано
+
+[MessageTrigger1]
+TriggeredMsg=cc_2
+
+[DialogueManager1]
+Speakers=((PawnName="JonesMaj",Sentences=("Ще раз мене так налякаєш і я сама тебе вб'ю.")),(PawnName="Carrington",Sentences=("Ти неймовірний сучий син!","Ти впорядку, Віллі?","Бьюсь об заклад! Хa! Хa! Хa!")),(PawnName="Sheridan",Sentences=("Все нарешті закінчилось?")))
+
+[LevelSummary]
+Title=ssh102b
+

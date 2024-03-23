@@ -1,0 +1,2280 @@
+[XIIIWindow]
+ReturnText=Попередня
+CancelText=Відміна
+AcceptText=Прийняти
+SelectText=Вибрати
+StartText=Почати
+BackText=Назад
+NextText=Наступна
+SearchText=Пошук
+EnterText=Ввести
+EscapeText=Вийти
+EditText=Редагувати
+ChooseText=Обрати
+DeleteText=Видалити
+SaveText=Зберегти
+UpdateText=Оновити
+
+[XIIIMenuInputShootAdvance]
+FistsText=Кулаки
+
+[XIIIMenuMultiGSConnectionLostMsgBox]
+OkText="Ok"
+ConnectionLostText="You have just lost the connection with UBI.com.|You will have to re-log in. Sorry for the inconvenience."
+
+[XIIMenuLiveWriteStats]
+confirmquittext="Цей сеанс гри більше не доступний!"
+
+[XIIIMenuPlayersSetupClient]
+TeamText=Команда
+RedTeam=Червоні
+BlueTeam=Сині
+ClassText=Класс саботажу
+PlayerText = Гравець
+
+[XIIIMenuCompetencesIngame]
+Doc1LabText=У пам'яті розблоковано інформацію про методи скритності. Відтепер ви створюватимете на 50% менше шуму під час руху.
+Doc2LabText=Перед очами промайнули згадки про полігон. Доступне вміння стріляти з двох пістолетів одночасно, використовуючи Альтернативний вогонь.
+Doc3LabText=Ви згадали спец. техніки затримки дихання. Відтепер під водою можна залишатися вдвічі довше.
+Doc4LabText=Ви почали пригадувати курси першої допомоги. Медичні набори матимуть подвійний ефект.
+Doc5LabText=Ви відновили своє шосте почуття. Ви можете візуалізувати позицію ваших ворогів, спостерігаючи за «ТУП ТУП», якщо не рухаєтеся.
+Doc6LabText=До вас повернулась здатність до концентрації. Відтепер ви можете стабілізувати вогонь під час снайперської стрільби по ворогу.
+Doc7LabText=Отримавши стусана ви згадали, як наносити удар передпліччям: тихо підійдіть до ворога ззаду, та натисніть кнопку ДІЇ, щоб нокаутувати його.
+Doc8LabText=Шпилька в руці нагадала про навички взлому. Ви знову можете відкрити двері вдвічі швидше.
+TitleText=Навички
+DualWeaponText=Навик подвійної зброї
+BreathText=Затримка дихання
+FirstAidText=Надання першої допомоги
+SixSenseText=Шосте чуття
+SniperText=Снайперські навички
+StunningText=Оглушення
+PickLockText=Відмикання замків
+SilentWalkText=Тиха ходьба
+
+[XIIICheckBoxControl]
+sYes=Так
+sNo=Ні
+
+[XIIIMsgBox]
+ButtonNames[0]=Ok
+ButtonNames[1]=Відміна
+ButtonNames[2]=Повтор
+ButtonNames[3]=Продовжити
+ButtonNames[4]=Так
+ButtonNames[5]=Ні
+ButtonNames[6]=Перервати
+ButtonNames[7]=Ігнорувати
+
+[XIIIMenuDocument]
+TitleText=Документи
+Doc1Text=Скриня Аташе
+Doc2Text=ФБР
+Doc3Text=Білий Дім
+Doc4Text=XVII
+Doc5Text=XX
+Doc6Text=Пентагон
+Doc7Text=VII
+Doc8Text=IX
+Doc9Text=V
+Doc10Text=III
+Doc11Text=II
+Doc12Text=I
+NoDocText=Недоступні
+
+[XIIIMenuStory]
+TitleText=Прикриття
+Doc1Text=Document1
+Doc2Text=Document2
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+Doc1LabText=Ти не зможеш тікати вічно, номер XIII!
+Doc2LabText=
+Doc3LabText=Стіве Ролланде, вас заарештовано.
+Doc4LabText=Я нічого не пам'ятаю...
+Doc5LabText=...вбивство Вільяма Шерідана!
+Doc6LabText=
+Doc7LabText=Я - Майор Джонс… Пригадуєш?
+Doc8LabText=
+
+[XIIIMenuStory6]
+TitleText=Прикриття
+Doc1Text=Document1
+Doc2Text=Document2
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+Doc1LabText=...ділиться нашою інформацією
+Doc2LabText=
+Doc3LabText=Вони готують переворот!
+Doc4LabText=Вовки вийшли з лігва...
+Doc5LabText=зірвати операцію Червоне Повстання.
+Doc6LabText=Маєток Вілларда! Ми їх схопили.
+Doc7LabText=Не можу дочекатися, щоб побачити обличчя номера I!
+Doc8LabText=...список прихильників
+
+[XIIIMenuStory2]
+TitleText=Прикриття
+Doc1Text=Document1
+Doc2Text=Document2
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+Doc1LabText=Керрінгтон… утримується в Емеральді
+Doc2LabText=
+Doc3LabText=Надмірне завзяття вашого загону
+Doc4LabText=Без свідків, зрозуміло?
+Doc5LabText=
+Doc6LabText=Якщо Стів Ролланд помер...
+Doc7LabText=Хто точив зуб на… Шерідана?
+Doc8LabText=Хто я?
+
+[XIIIMenuStory8]
+TitleText=Прикриття
+Doc1Text=Document1
+Doc2Text=Document2
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+Doc1LabText=
+Doc2LabText=особистість номера I…
+Doc3LabText=
+Doc4LabText=
+Doc5LabText=
+Doc6LabText=Далі буде…
+Doc7LabText=
+Doc8LabText=...йде з нами
+
+[XIIIMenuStory3]
+TitleText=Прикриття
+Doc1Text=Document1
+Doc2Text=Document2
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+Doc1LabText=...вдова Стіва Ролланда
+Doc2LabText=
+Doc3LabText=...вони припустяться помилки.
+Doc4LabText=..людина, чию особистість ти отримав
+Doc5LabText=
+Doc6LabText=...ти зрадила їх, Кім.
+Doc7LabText=Є двадцять змовників
+Doc8LabText=
+
+[XIIIMenuStory5]
+TitleText=Прикриття
+Doc1Text=Document1
+Doc2Text=Document2
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+Doc1LabText=
+Doc2LabText=...пластична хірургія…
+Doc3LabText=Цей чоловік невинний… 
+Doc4LabText=Схопили наживку!
+Doc5LabText=
+Doc6LabText=Що ви зробили з його тілом?
+Doc7LabText=Коли вони побачать привид Стіва…
+Doc8LabText=
+
+[XIIIMenuStory7]
+TitleText=Прикриття
+Doc1Text=Document1
+Doc2Text=Document2
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+Doc1LabText=Голос еліт нашої країни…
+Doc2LabText=центр керування… розташований у SSH1
+Doc3LabText=засновники нової Америки
+Doc4LabText=
+Doc5LabText=
+Doc6LabText=...затримати вбивць мого брата
+Doc7LabText=Продовжуємо завдання!
+Doc8LabText=...очищений від усіх паразитів
+
+[XIIIMenuStory4]
+TitleText=Прикриття
+Doc1Text=Document1
+Doc2Text=Document2
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+Doc1LabText=Флай! Його ім'я Джейсон Флай!
+Doc2LabText=
+Doc3LabText=табір спец.загону… таємна зустріч
+Doc4LabText=
+Doc5LabText=
+Doc6LabText=...прагнуть служити Справі
+Doc7LabText=...контролювати військо
+Doc8LabText=Імітація воєнного стану
+
+[XIIIMenuMultiGSFindServers]
+CreateText=Створити
+FilterText=Фільтр
+RefreshText=Оновити
+BackText=Назад
+SearchingText=Пошук...
+ConfirmationText=Запит на підтвердження.
+ConfirmExitText=Ви відключитесь від ubi.com.| Необхідне підтвердження.
+ErrorText=Відсутнє з'єднання з серверами
+sGameType=Тип гри
+sAllGameTypes=Усі
+sMapName=Карта
+sAllMaps=Усі
+sPrivateGames=Показати приватні ігри
+sPrivateGameVisible=Так
+sPrivateGamesHidden=Ні
+
+[XIIIMenuControlsWindow]
+TitleText=Управління
+NumPadText=Pad Number
+PadText=Pad Configuration
+AdvancedText=Додатково
+sPadConfigNames[0]=Індивідуальна
+sPadConfigNames[1]=Класична
+sButtonsX[0]=A
+sButtonsX[1]=B
+sButtonsX[2]=X
+sButtonsX[3]=Y
+sButtonsX[4]=Black
+sButtonsX[5]=White
+sButtonsX[6]=Left Trigger
+sButtonsX[7]=Right Trigger
+sButtonsX[8]=CrossDown
+sButtonsX[9]=CrossRight
+sButtonsX[10]=CrossLeft
+sButtonsX[11]=CrossUp
+sButtonsX[12]=Start
+sButtonsX[13]=Select
+sButtonsX[14]=LPad Button
+sButtonsX[15]=RPad Button
+sButtonsX[16]=Left ThumbStick
+sButtonsX[17]=Right ThumbStick
+sButtonsP[0]=Triangle
+sButtonsP[1]=Circle
+sButtonsP[2]=Cross
+sButtonsP[3]=Square
+sButtonsP[4]=L2
+sButtonsP[5]=R2
+sButtonsP[6]=L1
+sButtonsP[7]=R1
+sButtonsP[8]=Select
+sButtonsP[9]=L3
+sButtonsP[10]=R3
+sButtonsP[11]=Start
+sButtonsP[12]=CrossUp
+sButtonsP[13]=CrossRight
+sButtonsP[14]=CrossDown
+sButtonsP[15]=CrossLeft
+sButtonsP[16]=Left Stick
+sButtonsP[17]=Right Stick
+sButtonsG[0]=L Shoulder
+sButtonsG[1]=R Shoulder
+sButtonsG[2]=Z Trigger
+sButtonsG[3]=Y
+sButtonsG[4]=X
+sButtonsG[5]=A
+sButtonsG[6]=B
+sButtonsG[7]=CrossLeft
+sButtonsG[8]=CrossRight
+sButtonsG[9]=CrossUp
+sButtonsG[10]=CrossDown
+sButtonsG[11]=Start
+sButtonsG[16]=LPad
+sButtonsG[17]=RPad
+PadConfigText[0]=Classic
+PadConfigText[1]=Goofy
+InfoTextClassic[0]=quick heal
+InfoTextClassic[1]=next weapon
+InfoTextClassic[2]=action/reload
+InfoTextClassic[3]=previous weapon
+InfoTextClassic[4]=crouch
+InfoTextClassic[5]=jump
+InfoTextClassic[6]=alt fire
+InfoTextClassic[7]=fire
+InfoTextClassic[8]=[multi] scores
+InfoTextClassic[9]=none
+InfoTextClassic[10]=[multi] bot order
+InfoTextClassic[11]=game menu
+InfoTextClassic[12]=center view
+InfoTextClassic[13]=next item
+InfoTextClassic[14]=center view
+InfoTextClassic[15]=previous item
+InfoTextClassic[16]=move
+InfoTextClassic[17]=look
+InfoTextGoofy[0]=quick heal
+InfoTextGoofy[1]=next weapon
+InfoTextGoofy[2]=action/reload
+InfoTextGoofy[3]=previous weapon
+InfoTextGoofy[4]=crouch
+InfoTextGoofy[5]=jump
+InfoTextGoofy[6]=alt fire
+InfoTextGoofy[7]=fire
+InfoTextGoofy[8]=[multi] scores
+InfoTextGoofy[9]=none
+InfoTextGoofy[10]=[multi] bot order
+InfoTextGoofy[11]=game menu
+InfoTextGoofy[12]=center view
+InfoTextGoofy[13]=next item
+InfoTextGoofy[14]=center view
+InfoTextGoofy[15]=previous item
+InfoTextGoofy[16]=forward/turn
+InfoTextGoofy[17]=lookup/strafe
+InfoTextClassicCube=show score
+PadConfigXBoxText[0]=Classic 
+PadConfigXBoxText[1]=Goofy 
+PadConfigXboxText[2]=Classic XIII
+PadConfigXboxText[3]=Goofy XIII
+InfoTextClassicHalo[0]=jump
+InfoTextClassicHalo[1]=next weapon
+InfoTextClassicHalo[2]=action/reload
+InfoTextClassicHalo[3]=previous weapon
+InfoTextClassicHalo[5]=quick heal
+InfoTextClassicHalo[6]=alt fire
+InfoTextClassicHalo[7]=fire
+InfoTextClassicHalo[9]=cycle inventory
+InfoTextClassicHalo[12]=game menu
+InfoTextClassicHalo[13]=[multi] scores
+InfoTextClassicHalo[14]=[click] duck
+InfoTextClassicHalo[15]=[multi] bot order
+InfoTextClassicHalo[16]=move
+InfoTextClassicHalo[17]=look
+InfoTextGoofyHalo[0]=jump
+InfoTextGoofyHalo[1]=next weapon
+InfoTextGoofyHalo[2]=action/reload
+InfoTextGoofyHalo[3]=previous weapon
+InfoTextGoofyHalo[5]=quick heal
+InfoTextGoofyHalo[6]=alt fire
+InfoTextGoofyHalo[7]=fire
+InfoTextGoofyHalo[9]=cycle inventory
+InfoTextGoofyHalo[12]=game menu
+InfoTextGoofyHalo[13]=[multi] scores
+InfoTextGoofyHalo[14]=[click] duck
+InfoTextGoofyHalo[15]=[multi] bot order
+InfoTextGoofyHalo[16]=forward/turn
+InfoTextGoofyHalo[17]=lookup/strafe
+InfoTextClassicXIII[0]=action/reload
+InfoTextClassicXIII[1]=next weapon
+InfoTextClassicXIII[2]=previous weapon
+InfoTextClassicXIII[3]=alt fire
+InfoTextClassicXIII[5]=quick heal
+InfoTextClassicXIII[6]=jump
+InfoTextClassicXIII[7]=fire
+InfoTextClassicXIII[9]=cycle inventory
+InfoTextClassicXIII[12]=game menu
+InfoTextClassicXIII[13]=[multi] scores
+InfoTextClassicXIII[14]=[click] duck
+InfoTextClassicXIII[15]=[multi] bot order
+InfoTextClassicXIII[16]=move
+InfoTextClassicXIII[17]=look
+InfoTextGoofyXIII[0]=action/reload
+InfoTextGoofyXIII[1]=next weapon
+InfoTextGoofyXIII[2]=previous weapon
+InfoTextGoofyXIII[3]=alt fire
+InfoTextGoofyXIII[5]=quick heal
+InfoTextGoofyXIII[6]=jump
+InfoTextGoofyXIII[7]=fire
+InfoTextGoofyXIII[9]=cycle inventory
+InfoTextGoofyXIII[12]=game menu
+InfoTextGoofyXIII[13]=[multi] scores
+InfoTextGoofyXIII[14]=[click] duck
+InfoTextGoofyXIII[15]=[multi] bot order
+InfoTextGoofyXIII[16]=forward/turn
+InfoTextGoofyXIII[17]=lookup/strafe
+
+[XIIIMenuConspiracy]
+TitleText=Прикриття
+Doc1Text=Document1
+Doc2Text=Document2
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+ConspJobs[0]=Волтер Шерідан - сенатор
+ConspJobs[1]=Келвін Вакс - міністр оборони
+ConspJobs[2]=Вільям Стендвелл - начальник штабу
+ConspJobs[3]=Філіп Гіллеспі - міністр внутрішніх справ
+ConspJobs[4]=Клейтон Віллард - сенатор
+ConspJobs[5]=Ірвін Алленбі - Суддя - Вів справу Шерідана
+ConspJobs[6]=Франклін Едельбрайт - адмірал - човен Петріот
+ConspJobs[7]=Дін Харрісон - конгресмен
+ConspJobs[8]=Джаспер Вінслоу - ген. директор - банк Вінслоу
+ConspJobs[9]=Орвілл Мідсаммер - власник - прес-групи
+ConspJobs[10]=Сеймур Макколл — полковник. Спец. загін.
+ConspJobs[11]=Ллойд Дженнінгс - радник Білого дому
+ConspJobs[12]=Стів Роуленд — капітан. Спец. загін.
+ConspJobs[13]=Харрієт Треймор - ген. директор - Федерал Стіл Корпорейшн
+ConspJobs[14]=Джек Дікінсон - ген. директор - Американ Ліджн
+ConspJobs[15]=Норман Райдер — полковник Національної гвардії
+ConspJobs[16]=Кім Ролланд - вдова Ролланда
+ConspJobs[17]=Едвін Рашенберг - ген. директор каналу CBN
+ConspJobs[18]=Еллі Шепард – ген. директор - Міністерство оборони
+ConspJobs[19]=Едвард В.Йоханссон - директор - Псих. лікарня Плейн Рок
+
+[XIIIMenuInputPC]
+TitleText=Управління
+LookText=Погляд
+MoveText=Пересування
+ShootText=Стрільба
+OtherText=Інші налаштування
+ResetText=Скинути
+LookHelp=Налаштування погляду та миші
+MoveHelp=Пересування
+ShootHelp=Зброя
+OtherHelp=Інвентар та інше
+ResetHelp=Повернути оригінальні налаштування
+LocalizedKeyName[1]=LeftMouse
+LocalizedKeyName[2]=RightMouse
+LocalizedKeyName[3]=Cancel
+LocalizedKeyName[4]=MiddleMouse
+LocalizedKeyName[5]=Unknown05
+LocalizedKeyName[6]=Unknown06
+LocalizedKeyName[7]=Unknown07
+LocalizedKeyName[8]=Backspace
+LocalizedKeyName[9]=Tab
+LocalizedKeyName[10]=Unknown0A
+LocalizedKeyName[11]=Unknown0B
+LocalizedKeyName[12]=NumPad5
+LocalizedKeyName[13]=Enter
+LocalizedKeyName[14]=Unknown0E
+LocalizedKeyName[15]=Unknown0F
+LocalizedKeyName[16]=Shift
+LocalizedKeyName[17]=Ctrl
+LocalizedKeyName[18]=Alt
+LocalizedKeyName[19]=Pause
+LocalizedKeyName[20]=CapsLock
+LocalizedKeyName[21]=Unknown15
+LocalizedKeyName[22]=Unknown16
+LocalizedKeyName[23]=Unknown17
+LocalizedKeyName[24]=Unknown18
+LocalizedKeyName[25]=Unknown19
+LocalizedKeyName[26]=Unknown1A
+LocalizedKeyName[27]=Escape
+LocalizedKeyName[28]=Unknown1C
+LocalizedKeyName[29]=Unknown1D
+LocalizedKeyName[30]=Unknown1E
+LocalizedKeyName[31]=Unknown1F
+LocalizedKeyName[32]=Space
+LocalizedKeyName[33]=PageUp
+LocalizedKeyName[34]=PageDown
+LocalizedKeyName[35]=End
+LocalizedKeyName[36]=Home
+LocalizedKeyName[37]=Left
+LocalizedKeyName[38]=Up
+LocalizedKeyName[39]=Right
+LocalizedKeyName[40]=Down
+LocalizedKeyName[41]=Select
+LocalizedKeyName[42]=Print
+LocalizedKeyName[43]=Execute
+LocalizedKeyName[44]=PrintScrn
+LocalizedKeyName[45]=Insert
+LocalizedKeyName[46]=Delete
+LocalizedKeyName[47]=Help
+LocalizedKeyName[48]=0
+LocalizedKeyName[49]=1
+LocalizedKeyName[50]=2
+LocalizedKeyName[51]=3
+LocalizedKeyName[52]=4
+LocalizedKeyName[53]=5
+LocalizedKeyName[54]=6
+LocalizedKeyName[55]=7
+LocalizedKeyName[56]=8
+LocalizedKeyName[57]=9
+LocalizedKeyName[58]=Unknown3A
+LocalizedKeyName[59]=Unknown3B
+LocalizedKeyName[60]=Unknown3C
+LocalizedKeyName[61]=Unknown3D
+LocalizedKeyName[62]=Unknown3E
+LocalizedKeyName[63]=Unknown3F
+LocalizedKeyName[64]=Unknown40
+LocalizedKeyName[65]=A
+LocalizedKeyName[66]=B
+LocalizedKeyName[67]=C
+LocalizedKeyName[68]=D
+LocalizedKeyName[69]=E
+LocalizedKeyName[70]=F
+LocalizedKeyName[71]=G
+LocalizedKeyName[72]=H
+LocalizedKeyName[73]=I
+LocalizedKeyName[74]=J
+LocalizedKeyName[75]=K
+LocalizedKeyName[76]=L
+LocalizedKeyName[77]=M
+LocalizedKeyName[78]=N
+LocalizedKeyName[79]=O
+LocalizedKeyName[80]=P
+LocalizedKeyName[81]=Q
+LocalizedKeyName[82]=R
+LocalizedKeyName[83]=S
+LocalizedKeyName[84]=T
+LocalizedKeyName[85]=U
+LocalizedKeyName[86]=V
+LocalizedKeyName[87]=W
+LocalizedKeyName[88]=X
+LocalizedKeyName[89]=Y
+LocalizedKeyName[90]=Z
+LocalizedKeyName[91]=Unknown5B
+LocalizedKeyName[92]=Unknown5C
+LocalizedKeyName[93]=Unknown5D
+LocalizedKeyName[94]=Unknown5E
+LocalizedKeyName[95]=Unknown5F
+LocalizedKeyName[96]=NumPad0
+LocalizedKeyName[97]=NumPad1
+LocalizedKeyName[98]=NumPad2
+LocalizedKeyName[99]=NumPad3
+LocalizedKeyName[100]=NumPad4
+LocalizedKeyName[101]=NumPad5
+LocalizedKeyName[102]=NumPad6
+LocalizedKeyName[103]=NumPad7
+LocalizedKeyName[104]=NumPad8
+LocalizedKeyName[105]=NumPad9
+LocalizedKeyName[106]=*
+LocalizedKeyName[107]=+
+LocalizedKeyName[108]=Separator
+LocalizedKeyName[109]=-
+LocalizedKeyName[110]=.
+LocalizedKeyName[111]=/
+LocalizedKeyName[112]=F1
+LocalizedKeyName[113]=F2
+LocalizedKeyName[114]=F3
+LocalizedKeyName[115]=F4
+LocalizedKeyName[116]=F5
+LocalizedKeyName[117]=F6
+LocalizedKeyName[118]=F7
+LocalizedKeyName[119]=F8
+LocalizedKeyName[120]=F9
+LocalizedKeyName[121]=F10
+LocalizedKeyName[122]=F11
+LocalizedKeyName[123]=F12
+LocalizedKeyName[124]=F13
+LocalizedKeyName[125]=F14
+LocalizedKeyName[126]=F15
+LocalizedKeyName[127]=F16
+LocalizedKeyName[128]=F17
+LocalizedKeyName[129]=F18
+LocalizedKeyName[130]=F19
+LocalizedKeyName[131]=F20
+LocalizedKeyName[132]=F21
+LocalizedKeyName[133]=F22
+LocalizedKeyName[134]=F23
+LocalizedKeyName[135]=F24
+LocalizedKeyName[136]=Unknown88
+LocalizedKeyName[137]=Unknown89
+LocalizedKeyName[138]=Unknown8A
+LocalizedKeyName[139]=Unknown8B
+LocalizedKeyName[140]=Unknown8C
+LocalizedKeyName[141]=Unknown8D
+LocalizedKeyName[142]=Unknown8E
+LocalizedKeyName[143]=Unknown8F
+LocalizedKeyName[144]=NumLock
+LocalizedKeyName[145]=ScrollLock
+LocalizedKeyName[146]=Unknown92
+LocalizedKeyName[147]=Unknown93
+LocalizedKeyName[148]=Unknown94
+LocalizedKeyName[149]=Unknown95
+LocalizedKeyName[150]=Unknown96
+LocalizedKeyName[151]=Unknown97
+LocalizedKeyName[152]=Unknown98
+LocalizedKeyName[153]=Unknown99
+LocalizedKeyName[154]=Unknown9A
+LocalizedKeyName[155]=Unknown9B
+LocalizedKeyName[156]=Unknown9C
+LocalizedKeyName[157]=Unknown9D
+LocalizedKeyName[158]=Unknown9E
+LocalizedKeyName[159]=Unknown9F
+LocalizedKeyName[160]=LShift
+LocalizedKeyName[161]=RShift
+LocalizedKeyName[162]=LControl
+LocalizedKeyName[163]=RControl
+LocalizedKeyName[164]=LAlt
+LocalizedKeyName[165]=RAlt
+LocalizedKeyName[166]=UnknownA6
+LocalizedKeyName[167]=UnknownA7
+LocalizedKeyName[168]=UnknownA8
+LocalizedKeyName[169]=UnknownA9
+LocalizedKeyName[170]=UnknownAA
+LocalizedKeyName[171]=UnknownAB
+LocalizedKeyName[172]=UnknownAC
+LocalizedKeyName[173]=UnknownAD
+LocalizedKeyName[174]=UnknownAE
+LocalizedKeyName[175]=UnknownAF
+LocalizedKeyName[176]=UnknownB0
+LocalizedKeyName[177]=UnknownB1
+LocalizedKeyName[178]=UnknownB2
+LocalizedKeyName[179]=UnknownB3
+LocalizedKeyName[180]=UnknownB4
+LocalizedKeyName[181]=UnknownB5
+LocalizedKeyName[182]=UnknownB6
+LocalizedKeyName[183]=UnknownB7
+LocalizedKeyName[184]=UnknownB8
+LocalizedKeyName[185]=UnknownB9
+LocalizedKeyName[186]=Semicolon
+LocalizedKeyName[187]==
+LocalizedKeyName[188]=,
+LocalizedKeyName[189]=-
+LocalizedKeyName[190]=;
+LocalizedKeyName[191]=/
+LocalizedKeyName[192]=~
+LocalizedKeyName[193]=UnknownC1
+LocalizedKeyName[194]=UnknownC2
+LocalizedKeyName[195]=UnknownC3
+LocalizedKeyName[196]=UnknownC4
+LocalizedKeyName[197]=UnknownC5
+LocalizedKeyName[198]=UnknownC6
+LocalizedKeyName[199]=UnknownC7
+LocalizedKeyName[200]=Joy1
+LocalizedKeyName[201]=Joy2
+LocalizedKeyName[202]=Joy3
+LocalizedKeyName[203]=Joy4
+LocalizedKeyName[204]=Joy5
+LocalizedKeyName[205]=Joy6
+LocalizedKeyName[206]=Joy7
+LocalizedKeyName[207]=Joy8
+LocalizedKeyName[208]=Joy9
+LocalizedKeyName[209]=Joy10
+LocalizedKeyName[210]=Joy11
+LocalizedKeyName[211]=Joy12
+LocalizedKeyName[212]=Joy13
+LocalizedKeyName[213]=Joy14
+LocalizedKeyName[214]=Joy15
+LocalizedKeyName[215]=Joy16
+LocalizedKeyName[216]=UnknownD8
+LocalizedKeyName[217]=UnknownD9
+LocalizedKeyName[218]=UnknownDA
+LocalizedKeyName[219]=(
+LocalizedKeyName[221]=)
+LocalizedKeyName[222]='
+LocalizedKeyName[223]=!
+LocalizedKeyName[224]=JoyX
+LocalizedKeyName[225]=JoyY
+LocalizedKeyName[226]=JoyZ
+LocalizedKeyName[227]=JoyR
+LocalizedKeyName[228]=MouseX
+LocalizedKeyName[229]=MouseY
+LocalizedKeyName[230]=MouseZ
+LocalizedKeyName[231]=MouseW
+LocalizedKeyName[232]=JoyU
+LocalizedKeyName[233]=JoyV
+LocalizedKeyName[234]=UnknownEA
+LocalizedKeyName[235]=UnknownEB
+LocalizedKeyName[236]=MouseWheelUp
+LocalizedKeyName[237]=MouseWheelDown
+LocalizedKeyName[238]=Unknown10E
+LocalizedKeyName[239]=Unknown10F
+LocalizedKeyName[240]=JoyPovUp
+LocalizedKeyName[241]=JoyPovDown
+LocalizedKeyName[242]=JoyPovLeft
+LocalizedKeyName[243]=JoyPovRight
+LocalizedKeyName[244]=UnknownF4
+LocalizedKeyName[245]=UnknownF5
+LocalizedKeyName[246]=Attn
+LocalizedKeyName[247]=CrSel
+LocalizedKeyName[248]=ExSel
+LocalizedKeyName[249]=ErEof
+LocalizedKeyName[250]=Play
+LocalizedKeyName[251]=Zoom
+LocalizedKeyName[252]=NoName
+LocalizedKeyName[253]=PA1
+LocalizedKeyName[254]=OEMClear
+OrString=" або "
+
+[XIIIMenuSkill]
+TitleText=Навички
+Doc1Text=Оглушення
+Doc2Text=Шосте чуття
+Doc3Text=Тиха ходьба
+Doc4Text=Затримка дихання
+Doc5Text=Надання першої допомоги
+Doc6Text=Навик подвійної зброї
+Doc7Text=Відмикання замків
+Doc8Text=Снайперські навички
+ServiceText=Послужний список
+Doc1LabText=Рукопашний бій. Вміння завдавати ударів рукою, якому навчився на тренуваннях.
+Doc2LabText=Відзначився під час операції "Джунглі" своєю здатністю виявляти ворога. Генерал Керрінгтон описав майстерність солдата як справжнє 6-е чуття.
+Doc3LabText=Відзначився в ході виконання завдання під час наближення до бази супротивника потай. Дістався до мети і не був виявлений жодним супротивником.
+Doc4LabText=Рекорд із затримання дихання на глибині 70 метрів.
+Doc5LabText=Під час операції «Кайман», незважаючи на поранення стегна, повернувся до точки C за рекордний час. Незвичайна здатність до відновлення.
+Doc6LabText=Можливість використовувати дві пістолети одночасно.
+Doc7LabText=Успішно завершено тест на зламування замків.
+Doc8LabText=Отримав диплом стрільця.
+
+[XIIIMenuDoc2]
+ObjectName[0]=Фото ураженої цілі
+ObjectName[1]=Фото снайпера
+ObjectName[2]=Фото моргу
+ObjectName[3]=Патрон
+ObjectName[4]=Портрет братів Шерідан
+ObjectName[5]=Звіт коронера
+ObjectName[6]=Звіт про арешт
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Файл ФБР
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuMultiLANJoin]
+RefreshText=Refresh list
+BackText=Back
+QueryServerList=Getting a list of game sessions...
+NoServersFound=No game sessions found
+RefreshingText=Refreshing game session list...
+ConnectingMsgBoxMenuTitle=Connection status
+ConnectingText=Connecting to the game session....
+networkcableDisconnectedString="Network cable disconnected!"
+
+[XIIIMenuDoc1]
+ObjectName[0]=Паспорт
+ObjectName[1]=Поліцейський архів фотографій злочинців
+ObjectName[2]=Пачка банкнот
+ObjectName[3]=Банківський переказ
+ObjectName[4]=Фото солдата
+ObjectName[5]=Фото жінки
+ObjectName[6]=виделка
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Скриня Аташе
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuDoc5]
+ObjectName[0]=Запит на зустріч - Факс
+ObjectName[1]=Запит на ув'язнення
+ObjectName[2]=Банківський переказ
+ObjectName[3]=Куля
+ObjectName[4]=мисливські трофеї
+ObjectName[5]=книга
+ObjectName[6]=виделка
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Файл XX
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuDoc4]
+ObjectName[0]=Операції - Процедури
+ObjectName[1]=Фото пацієнта
+ObjectName[2]=Повідомлення від Стіва Ролланда
+ObjectName[3]=Банківський переказ
+ObjectName[4]=Повідомлення від Керрінгтона
+ObjectName[5]=книга
+ObjectName[6]=виделка
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Файл XVII
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuDoc8]
+ObjectName[0]=Рахунок постачальника провізії
+ObjectName[1]=Список фінансового забезпечення
+ObjectName[2]=Фото
+ObjectName[3]=Куля
+ObjectName[4]=мисливські трофеї
+ObjectName[5]=книга
+ObjectName[6]=виделка
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Файл IX
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuDoc6]
+ObjectName[0]=Службовий список капітана Ролланда
+ObjectName[1]=Службовий список капітана Ролланда
+ObjectName[2]=Фото на пам'ять
+ObjectName[3]=Банківський переказ
+ObjectName[4]=Червоне Повстання план 1
+ObjectName[5]=Червоне Повстання план 2
+ObjectName[6]=Втікач - Факс
+ObjectName[7]=виделка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Документи Пентагону
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenu]
+ContinueText=Продовжити
+QuitText=Вихід
+MultiplayerText=Багатокористувацька гра
+LoadGameText=Завантажити гру
+OptionsText=Налаштування
+NewGameText=Нова гра
+ConfirmQuitText=Ви справді хочете вийти з гри?
+ConfirmQuitTitle=Вийти з гри
+PendingInviteString=You have a pending invite on Xbox Live. Proceed?
+
+[XIIIMenuProfileClient]
+ClassText=Клас гравця
+TeamText=Команда
+OptionsText=Налаштування
+
+[XIIIMenuDoc10]
+ObjectName[0]=Банківський переказ
+ObjectName[1]=Повідомлення від номера 2
+ObjectName[2]=Фото
+ObjectName[3]=Куля
+ObjectName[4]=мисливські трофеї
+ObjectName[5]=книга
+ObjectName[6]=виделка
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Файл III
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuDoc3]
+ObjectName[0]=Лист з попередженням
+ObjectName[1]=Фото членів клану
+ObjectName[2]=Фото відеоспостереження
+ObjectName[3]=Лист з Білого Дому
+ObjectName[4]=мисливські трофеї
+ObjectName[5]=книга
+ObjectName[6]=виделка
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Документи Білого Дому
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuDoc11]
+ObjectName[0]=Банківський переказ
+ObjectName[1]=Повідомлення від номера 1
+ObjectName[2]=Лист стосовно Керрінгтона
+ObjectName[3]=Куля
+ObjectName[4]=мисливські трофеї
+ObjectName[5]=книга
+ObjectName[6]=виделка
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Файл II
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuDoc7]
+ObjectName[0]=Наказ
+ObjectName[1]=Банківський переказ
+ObjectName[2]=Стаття в пресі
+ObjectName[3]=Куля
+ObjectName[4]=мисливські трофеї
+ObjectName[5]=книга
+ObjectName[6]=виделка
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Файл VII
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuDoc9]
+ObjectName[0]=Банківський переказ
+ObjectName[1]=Фото на пам'ять
+ObjectName[2]=Фото кам'яної плити
+ObjectName[3]=Куля
+ObjectName[4]=мисливські трофеї
+ObjectName[5]=книга
+ObjectName[6]=виделка
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=Файл V
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuSplitSetupClient]
+TitleText=Split Screen Game
+GameText=Game Type
+MapText=Map Name
+PlayerText=Number of Player(s)
+FriendlyText=Friendly Fire
+FragText=Points Limit
+TimeText=Time Limit
+BotsText=Bots Setup
+OKText=Create
+PlayersText=Players Setup
+
+[XIIIMenuBotsSetupClient]
+NbBotText=Bot Number
+BotText=Bot
+SkillText=Skill
+TeamText=Team
+SkillsText[0]=Easy
+SkillsText[1]=Medium
+SkillsText[2]=Hard
+SkillsText[3]=Insane
+RedTeam=Red
+BlueTeam=Blue
+Error1Text=This Map can't support more than the present number of players.
+Error2Text=of players. Please change your number of players.
+Error3Text=setting to be able to play current map with bots
+MessageText=This Map can't support more than the present number of players. Please change your number of players setting to be able to play current map with bots.
+Error4Text=Game will use map default bots.
+Error5Text=Bots are disabled for the current map.
+DefaultConfigText=Default Config
+Config1Text=Use Map Default Bots
+Config2Text=Disable All Bots
+
+[XIIIMenuBotChallengeSetupClient]
+TitleText=Bot Challenge
+GameText=Game Type
+MapText=Map Name
+FriendlyText=Friendly Fire
+FragText=Points Limit
+TimeText=Time Limit
+BotsText=Bots Setup
+OKText=Create
+
+[XIIIMenuDoc12]
+ObjectName[0]=Запрошення
+ObjectName[1]=Фото Кім Ролланд
+ObjectName[2]=Фото
+ObjectName[3]=Куля
+ObjectName[4]=мисливські трофеї
+ObjectName[5]=книга
+ObjectName[6]=виделка
+ObjectName[7]=склянка
+TitleText=Документи
+Doc1Text=Паспорт
+Doc2Text=I
+Doc3Text=Document3
+Doc4Text=Document4
+Doc5Text=Document5
+Doc6Text=Document6
+Doc7Text=Document7
+Doc8Text=Document8
+
+[XIIIMenuInputMoveClient]
+LabelList[0]=Вперед
+LabelList[1]=Назад
+LabelList[2]=Відскочити вліво
+LabelList[3]=Відскочити вправо
+LabelList[4]=Вгору / Стрибок
+LabelList[5]=Вниз / Присісти
+LabelList[6]=Біг / Ходьба
+TitleText=Параметри переміщення
+OrString=" або "
+
+[XIIIMenuContinue]
+ConspiracyText=Прикриття
+CompetencesText=Навички
+DocumentsText=Документи
+StoryText=Історія
+PlayText=ГРАТИ
+ErrorText=Помилка при завантаженні
+LoadingPS2Text=Unable to read file on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1
+LoadingText=Неможливо зчитати дані з комірки
+
+[XIIIMenuMultiplayer]
+TitleText=Multiplayer
+BotChallengeText=Bot Challenge
+LANJoinText=Join a system link game
+LANHostText=Host a system link game
+GameServiceText=UbiSoft's Online Game Service
+XBoxLiveText=Xbox Live
+ProfileText=Online multiplayer profile
+SplitText=Split screen game
+LANJoinPCText=Join a LAN game
+LANHostPCText=Host a LAN game
+ProfileXBoxText=System link profile
+networkcableDisconnectedString="Network cable disconnected!"
+
+[XIIIMenuOptions]
+VideoText=Відео
+SoundText=Звуки
+ControlsText=Управління
+DifficultyText=Складність
+ParentalLockText=Батьківський контроль
+SaveQuestionTitle=Налаштування змінено
+SaveQuestionText=Зберегти зміни?
+
+[XIIIMenuInputOtherClient]
+LabelList[0]=Взяти / Використати
+LabelList[1]=Попередній інвентар
+LabelList[2]=Наступний інвентар
+LabelList[3]=Рахунок
+LabelList[4]=Чат
+LabelList[5]=Чат команди
+LabelList[6]=Швидке лікування
+TitleText=Інші параметри
+OrString=" або "
+
+[XIIIMenuInputShootClient]
+LabelList[0]=Вогонь
+LabelList[1]=Альтернативний вогонь
+LabelList[2]=Перезарядка
+LabelList[3]=Наступна зброя
+LabelList[4]=Попередня зброя
+TitleText=Параметри стрільби
+OrString=" або "
+
+[XIIIMenuInputLookClient]
+LabelList[0]=Пошук
+LabelList[1]=Подивитися вниз
+LabelList[2]=Подивитись
+LabelList[3]=Дивитись прямо
+LabelList[4]=Повернутись ліворуч
+LabelList[5]=Повернутись праворуч
+TitleText=Налаштування огляду
+OrString=" або "
+MouselookText=Огляд мишею?
+invMouseText=Інвертувати мишу
+SensitivityText="Чутливість миші"
+
+[XIIIMenuMultiGSGameDetail]
+JoinText=Join
+BackText=Back
+RefreshText=Refresh
+GameTypeText=Game type
+MapText=Map
+FragLimitText=Frag limit
+TimeLimitText=Time limit
+PrivateText=Private game
+UnableToGetServerInfo=Problem with Game Service
+YesText=Yes
+NoText=No
+PlayerInTheGameText=Players in the game:
+NameText=Name
+ScoreText=Score
+RefreshingText=Refreshing...
+
+[XIIIMenuMultiLANHost]
+TitleText=System link Host
+TitlePCText=LAN Host
+GameText=Game Type
+MapText=Map Name
+PlayerText=Number of Player(s)
+FriendlyText=Friendly Fire
+FragText=Points Limit
+TimeText=Time Limit
+OKText=Create
+StartText=Create
+ServerNameText=Server Name
+networkcableDisconnectedString="Network cable disconnected!"
+
+[XIIIMenuMultiGSCreateGame]
+TitleText=Multiplayer
+GameText=Game Type
+MapText=Map Name
+PlayerText=Number of Player(s)
+FriendlyText=Friendly Fire
+FragText=Points Limit
+TimeText=Time Limit
+PasswordText=Password
+FailureText=Unable to register this game to ubi.com
+ServerText=Server Name
+CreateText=Create
+
+[XIIIMenuMultiGSAccountSignIn]
+CreateText=Create new account
+ModifyText=Modify selected account
+RemoveText=Remove selected account
+LoginText=Select your ubi.com account
+UseText=Use existing account
+BackText=Back
+ConfirmationText=Confirmation requested.
+ConfirmDeleteText=This account will be removed from the list.|Please confirm.
+
+[XIIIMenuMultiGSDNAS]
+SkipText=Skip
+RetryText=Retry
+ExitText=Exit
+PhaseText=Authenticating DNAS data...
+FooterSCE=Please contact your local PlayStation Customer Care line on the number provided in the software manual for assistance.
+MSG101=The network authentication server is busy. Please try again later.
+MSG103=This software title is not in service.
+Footer103=Please check the start and end dates for this online title at Central Station using the Network Access Disc or refer to PlayStation.com.
+MSG104=The network authentication server is not in service.
+Footer104=Please go to Central Station using the Network Access Disc for more information, or refer to PlayStation.com.
+MSG105=Connection to the network authentication server has timed out. Please try again later.
+Footer105=If you continue to experience the same problem please contact your local PlayStation Customer Care line on the number provided in the software manual.
+MSG108=A network authentication system error has occurred.
+Footer108=If you continue to experience the same problem please contact your local PlayStation Customer Care line on the number provided in the software manual.
+MSG204=A download error has occurred.
+Footer403=Try cleaning the disc using an approved method as detailed on Central Station (access using Network Access Disc) and PlayStation.com. If the problem continues to occur please contact your local PlayStation Customer Care line on the number provided in the software manual.
+MSG703=A software category error has occurred.
+MSGdefault=An authentication error has occurred.
+DiscErrorMsg=A PlayStation®2 disc information error has occurred.
+HardwareErrorMsg=A PlayStation®2 hardware information error has occurred.
+MsgNetwork=A network error has occurred.
+FooterNetwork=Please check your network connection and/or network configuration. Further information is provided on the Network Access Disc.
+DNASErrorText="DNAS error"
+
+[XIIIMenuSelectProfile]
+TitleText=Оберіть профіль
+ProfileText=Існуючі профілі
+CreateText=Створити новий профіль
+ProfileErrorTitle=Вибір профілю
+ProfileErrorText=ПОМИЛКА використання профілю %name%
+NoProfileText=Продовжити без профілю?|Збереження гри буде неможливим.
+ProfileInitText=НЕ ВДАЛОСЯ прочитати профілі
+NewProfileText=Новий профіль
+ConfirmCreateText=Зберегти профіль
+PlayDefaultText=Грати з профілем за замовчуванням
+ProfileAlreadyExistText=Такий профіль вже існує. Перезаписати профіль?
+ProfileFailureText=Такий профіль вже існує. Будь ласка, вкажіть новий профіль.
+ProfileCorrupted=Неможливо завантажити %name%. Перезаписати цей профіль?
+ProfileDiskFull=На вашому Xbox недостатньо вільних блоків для створення нового профілю. Ви повинні звільнити %nbblocks% додаткових блоків.
+ProfileMaxNumberCreated=Ви досягли максимальної кількості профілів, вам потрібно видалити один, перш ніж ви зможете створити новий профіль.
+ConfirmQuitText=Ви дійсно хочете вийти?
+ConfirmQuitTitle=Вийти з гри
+
+[XIIIMenuMultiGSBase]
+DisconnectionText="Disconnected from network."
+
+[XIIIMenuSave]
+TitleText=Зберегти гру
+EmptySlotPS2Text=-- Пустий слот --
+FullSlotErrorTitlePS2=Перезаписати?
+FullSlotErrorMsgPS2=Цей слот не порожній|Перезаписати це попереднє збереження?
+EmptySlotText=-- пустий слот --
+FullSlotErrorTitle=Зберегти гру
+FullSlotErrorMsg=Цей слот не порожній|Ви хочете перезаписати його?
+SaveGameResultTile=Зберегти гру
+SaveOk=Гру успішно збережено
+SaveFailed=ПОМИЛКА запису
+PageText=Сторінка
+
+[XIIIMenuVideoClientWindow]
+TitleText=Параметри відео
+BrightnessText=Яскравість
+GammaText=Гамма
+ContrastText=Контрастність
+DefaultText=Скинути
+CenterText=Центр
+HCenterText=Горизонтально
+VCenterText=Вертикально
+ResText=Екран
+DepthText=Глибина
+
+[XIIIMenuMultiGSAllConfig]
+OKText=Ok
+CreateText=Create
+SupportText=Support:
+HardwareText=Hardware
+Config1Text=Configuration 1:
+Config2Text=Configuration 2:
+Config3Text=Configuration 3:
+Config4Text=Configuration 4:
+TitleText=Network startup
+HardwareOfficialNameText=network adaptor (Ethernet) (for PlayStation®2)
+ErrorMemoryCardText=Error
+ErrorLoadingText=Loading error
+SelectConfigText=Select a network configuration
+ConnectingText=Loading Your Network Configuration file...|Please do not remove memory card (8Mb) (for PlayStation®2) from MEMORY CARD slot 1.
+ConnectingBisText=Loading network configuration...|Please do not remove memory card (8Mb) (for PlayStation®2) from MEMORY CARD slot 1.
+FailureMessage[0]=No Network Configuration file on the memory card (8Mb) (for PlayStation®2) in MEMORY CARD slot 1. Please use the Network Access Disc to create Your Network Configuration file.
+FailureMessage[1]=This Network Configuration file is corrupt and cannot be used. Please use the Network Access Disc to create a valid Network Configuration file.
+FailureMessage[2]=This Network Configuration file was created on another console and cannot be used. Please use the Network Access Disc to create Your Network Configuration file on your console.
+FailureMessage[3]=An error occurred. Please check memory card (8Mb) (for PlayStation®2) in MEMORY CARD slot 1 and try again.
+FailureMessage[4]=This Network Configuration file does not contain any network configuration for the network adaptor (Ethernet) (for PlayStation®2). This title only supports the network adaptor (Ethernet) (for PlayStation®2). Please use the Network Access Disc to edit Your Network Configuration file.
+FailureMessage[5]=Please insert a memory card (8Mb) (for PlayStation®2) with Your Network Configuration file into MEMORY CARD slot 1.
+FailureMessage[6]=No network adaptor (Ethernet) (for PlayStation®2) detected. You will not be able to access the online features of this title.
+FailureMessage[7]=This network configuration cannot be used.
+
+[XIIIMsgBoxInGame]
+ButtonNames[0]=Підтвердити
+ButtonNames[1]=Скасувати
+ButtonNames[2]=Повторити
+ButtonNames[3]=Продовжити
+ButtonNames[4]=Так
+ButtonNames[5]=Ні
+ButtonNames[6]=Скасувати
+ButtonNames[7]=Ігнорувати
+
+[XIIILiveMsgBox]
+ButtonNames[0]=Підтвердити
+ButtonNames[1]=Скасувати
+ButtonNames[2]=Повторити
+ButtonNames[3]=Продовжити
+ButtonNames[4]=Так
+ButtonNames[5]=Ні
+ButtonNames[6]=Скасувати
+ButtonNames[7]=Ігнорувати
+
+[XIIIMenuLiveLadderWindow]
+TitleText=Ladder Game
+connectingString=Connecting
+searchingString=Searching
+noGamesFoundString=No games found. Create one?
+lookingForGame=Looking for sessions within your skill level...
+yourRankStr=Your current rank is:
+loadingString=Downloading
+gettingStatsString=Getting ladder statistics. Please wait...
+ladderNotAvailableString=Failed to get statistics for ladder game. Please try again later.
+firstLadderGameString=First ladder game, Good Luck!
+ladderRankString=Ladder Ranking
+skillNames[0]=Beginner
+skillNames[1]=Below Average
+skillNames[2]=Average
+skillNames[3]=Above Average
+skillNames[4]=Skilled
+skillNames[5]=Pro
+skillNames[6]=Elite
+failedToJoinString=This game session is no longer available
+
+[XIIIMenuLiveStatsWritePage]
+statwritefailedString=Updating statistics failed!
+statwritestartingString=Updating statistics...
+statwritepleasewaitString=Please wait
+
+[XIIIMenuLoadGameWindow]
+TitleText=Збереження
+EmptySlotPS2Text=-- пустий слот --
+EmptySlotErrorTitlePS2=Пустий Слот
+EmptySlotErrorMsgPS2=Цей слот пустий
+EmptySlotText=-- пусто --
+EmptySlotErrorTitle=Завантажити збереження
+EmptySlotErrorMsg=Збереження відсутнє
+LoadGameResultTile=Зберегти прогресс
+EmptySlotErrorMsgPS2=No XIII progress data present on memory card (8MB) (for PlayStation®2) in MEMORY CARD slot 1.
+EmptySlotErrorMsgNoMCPS2=No memory card (8MB) (for PlayStation®2) inserted in MEMORY CARD slot 1.
+PageText=Сторінка
+
+[XIIIMenuMultiGSJoinMsgBox]
+ConnectingMsgBoxMenuTitle=Connection status
+ConnectingText=Connecting to the server....
+CancelText=Cancel
+
+[XIIIMenuAudioClientWindow]
+TitleText=Параметри звуку
+MusicText=Музика
+SoundVolumeText=Гучність звуку
+OnText=Ввімк.
+OffText=Вимк.
+ModeText=Режим
+MonoText=Моно
+StereoText=Стерео
+
+[XIIIMenuInGame]
+SaveTxt=Зберегти гру
+ReturnTxt=Повернутися до гри
+ControlsTxt=Управління
+CompetencesTxt=Навички
+ItemTxt=Знайдених предметів
+RestartTxt=Повторити спробу
+QuitTxt=Головне меню
+ConfirmQuitTxt=Увесь незбережений прогрес буде втрачено.|Вийти з гри?
+ConfirmRestartTxt=Увесь незбережений прогрес буде втрачено.|Ви впевнені?
+
+[XIIIMenuItemsIngame]
+TitleText=тимчасова сторінка - Предмети в грі
+
+[XIIIMenuMultiGS]
+TitleText=temp page - Game Service
+
+[XIIIMenuMultiGSFilter]
+GameText=Game Type
+MapText=Map Name
+PrivateText=Show private game?
+OKText=OK
+BackText=Back
+AllMapsText=All
+AllGamesText=All
+
+[XIIIMenuAdvancedControlsWindow]
+TitleText=Додатково
+LSpeedText=Чутливість огляду 
+RumbleText=Вібрація
+AutoAimText=Автоматичне прицілювання
+InvPadText=Інвертувати огляд
+RumbleCUBEText=Гуркіт
+
+[XIIIMenuCreateProfile]
+TitleText=Оберіть профіль
+ProfileText=Профіль
+CreateText=Новий профіль
+DisplayedText=НЕ ВДАЛОСЯ використати профіль %name%
+ProfileErrorTitle=Створення профілю
+
+[XIIIMenuMultiProfile]
+TitleText=Online multiplayer profile
+NameText=Name
+SkinText=Skin
+TeamText=Team
+BlueText=Blue
+RedText=Red
+ValidText=Accept
+TitleXBoxText=System link profile
+
+[XIIIMenuDifficultyWindow]
+TitleText=Складність
+EasyText=Аркада
+MediumText=Звичайна
+HardText=Реалізм
+
+[XIIIMenuMultiGSConfig]
+OKText=Ok
+ChangeText=Change
+CreateText=Create
+BackText=Back
+SupportText=Support:
+HardwareText=Hardware:
+ConfigText=Configuration:
+TitleText=Connect to the network
+ConnectText=Connect
+CancelText=Cancel
+ErrorMemoryCardText=Please insert a memory card (8Mb) (for PlayStation®2) | with Your Network Configuration file into MEMORY CARD slot 1.
+ErrorStatusText=Error
+HardwareOfficialNameText=network adaptor (Ethernet) (for PlayStation®2)
+
+[XIIIMenuMultiGSAccountCreation]
+AccountCreationTitle=Creation of a ubi.com account
+LoginText=Login
+PasswordText=Password
+CreateText=Create
+BackText=Back
+SavePasswordText=Save password?
+MissingParameterText=A parameter is missing
+EnterALoginText=Please enter a login name
+LoginAlreadyKnownText=This login already exists in my account list.|Please choose another one.
+EnterAPasswordText=Please enter a password.
+ConfirmationText=Confirmation requested
+DataSentOnInterneText=Warning! You are about to send these details over the network.|Are you sure?
+ConfirmPasswordText=Confirm password
+ConfirmYourPasswordText=Please confirm your password
+IncorrectConfirmationText=Your passwords do not match
+
+[XIIIMenuMultiGSAccountModify]
+AccountModificationTitle=Modification of a ubi.com account
+LoginText=Login
+OldPasswordText=Old password
+NewPasswordText=New password
+ModifyText=Modify
+BackText=Back
+SavePasswordText=Save new password?
+MissingParameterText=A parameter is missing.
+EnterOldPasswordText=Please enter your old password.
+EnterNewPasswordText=Please enter a new password.
+ConfirmationText=Confirmation requested
+DataSentOnInterneText=Warning! You are about to send these details over the network.|Are you sure?
+SuccessText=Account modified successfully.
+ConfirmNewPasswordText=Confirm password
+ConfirmYourNewPasswordText=Please confirm your password
+IncorrectConfirmationText=Your passwords do not match
+
+[XIIIMenuChooseMap]
+MapText=Map Name:
+DndText=Deaf & Dumb
+GodText=God
+FlyText=Teleport
+EquipText=EquipMe
+NeuText=Neu neu
+GhostText=Ghost
+GoText=Go!
+
+[XIIIMenuYesNoWindow]
+YesText=Так
+NoText=Ні
+QuitText=Вийти з гри?
+RestartText=Перезапустити рівень?
+AreUText=Ви впевнені?
+
+[XIIIMenuBriefingWindow]
+NextGameText=Продовжити
+
+[XIIIMenuMultiGSExistingAccount]
+UseText=Use
+BackText=Back
+LoginText=Enter your login.
+PasswordText=Password
+IntroText=Please enter the login of the ubi.com account you want to reuse.
+SavePasswordText=Save password?
+MissingParameterText=A parameter is missing.
+EnterALoginText=Please enter a login name.
+EnterAPasswordText=Please enter a password.
+LoginAlreadyKnownText=This login already exists in my account list.|Please choose another one.
+
+[XIIIMenuMultiGSAccountCreationRunningMsgBox]
+AccountCreationUnderWayText=Asking ubi.com to create your account...
+SuccessText=Account created successfully.
+AccountCreationErrorText=Account creation failed.
+TimeOutText=The connection time out to ubi.com has expired.
+
+[XIIIMenuMultiGSCheckExistingAccountMsgBox]
+AccountCheckUnderWayText=Checking your account with ubi.com...
+SuccessText=Account recognized successfully by ubi.com.
+AccountCheckErrorText=Your account is not recognized by ubi.com.|Please check your login and password.
+ErrorText=Account check error
+TimeOutText=The connection time out to ubi.com has expired.
+
+[XIIIMenuMultiGSAccountModifyRunningMsgBox]
+AccountModificationUnderWayText=Asking ubi.com to modify your account...
+SuccessText=Account modified successfully.
+AccountModificationErrorText=Account modification failed.
+TimeOutText=The connection time out to ubi.com has expired.
+
+[XIIIMenuInGameMulti]
+TeamText=Change Team
+OptionsText=Options
+QuitText=Quit Game
+ReturnText=Return to game
+RestartText=Restart Game
+KickText=Kick a player
+ConfirmQuitTxt=Are you sure?
+BombText=Change class
+
+[XIIIMenuMultiGSAccountPassword]
+EnterPasswordTitleText=Enter your password
+OKText=Ok
+LoginText=Login
+PasswordText=Password
+
+[XIIIMenuMultiGSConnectingUbiComMsgBox]
+ConnectingText=Connecting|to|ubi.com...
+SuccessText=ubi.com welcomes you
+ErrorText=Connection error
+TimeOutText=The connection time out to ubi.com has expired.
+
+[XIIIMenuMultiGSAccountFirstTime]
+CreateText=Create a ubi.com account
+UseText=Use an existing account
+YouDontHaveAccount=You don't have a ubi.com account yet...
+
+[XIIIMenuMultiGSConnection]
+ConnectionText=Connection status:
+TitleText=Connecting to the network
+ConnectingText=Authenticating user ID and password...
+ConnectingBisText=Disconnecting from network...
+ErrorConnectingText=Connection error.
+FailureMessage[0]=Could not authenticate user ID and password.| Please check Your Network Configuration file and try again.
+FailureMessage[1]=Could not connect to the network.| Please try again later.
+FailureMessage[2]=Could not access the external network device.| Please check all connections and reconnect.
+FailureMessage[3]=Network activation timed out
+ConnectingMainText=Connecting...
+
+[XIIIMenuMultiGSLicenceAgreement]
+LicenceText=Licence stuff
+AcceptText=I accept
+DeclineText=I decline
+ConfirmationText=Confirmation requested
+ConfirmExitText=You will disconnect from ubi.com.|Please confirm.
+LicenceText="This Software uses ''DNAS'' (Dynamic Network Authentication System), a proprietary authentication system created by Sony Computer Entertainment Inc. (''SCEI''). ''DNAS'' retrieves information about a user's hardware and software for authentication, copy protection, account blocking, system, rules, or game management and other purposes. SCEI, Sony Computer Entertainment Europe (''SCEE'') and their affiliates cannot guarantee the continuous operation of the ''DNAS'' servers. SCEE shall not be liable for any delay or failure of the ''DNAS'' servers to perform. If you receive a message during login identifying a ''DNAS'' authentication error, please contact your local PlayStation Customer Care line on the number provided in the software manual. For additional information concerning ''DNAS'', visit Central Station using the Network Access Disc or refer to PlayStation.com. In the event of a systems incompatibility or inoperability with DNAS, the sole liability of SCEI, SCEE and their affiliates shall be limited to the repair or replacement of the user's affected, game software, console or peripherals at the option of SCEE. SCEE, its parents, affiliates, or licensed Publishers shall not be liable for any delays, system failures, authentication failures, or system outages, which may, from time to time, affect online game play or access thereto."
+
+[XIIIMenuCheatClientWindow]
+DndText=Deaf & Dumb
+GodText=God
+FlyText=Teleport
+EquipText=EquipMe
+NeuText=Neu neu
+GhostText=Ghost
+
+[XIIIMenuMultiGSAccountConfirmCreation]
+AcceptText=Yes
+DeclineText=No
+InfoText=Warning! You are about to send these details over the network. Are you sure?
+
+[XIIIMenuEnterPasswordWindow]
+OKText=Ok
+CancelText=Cancel
+PasswordText=Password:
+EnterPasswordTitleText=Enter the password to join this game
+
+[XIIIMenuMultiGSRegisterServerMsgBox]
+RegisteringText=Registering your server to ubi.com...|Please wait.
+FailureText=Failed to register server.
+ErrorText=Connection error
+TimeOutText=The connection time out to ubi.com has expired.
+
+[XIIIMenuPressStart]
+TitlePS2Text=Please press the START button to begin.
+TitleXBoxText=Please press START to begin.
+TitleCUBEText=Please press START to begin
+
+[XIIIMultiControlsWindow]
+RumblePS2Text=Vibration
+RumbleCUBEText=Rumble
+RumbleText=Vibration
+AutoAimText=Auto Aim
+LSpeedPS2Text=Look Sensitivity
+LSpeedText=Look Sensitivity
+InvPadText=Invert Look
+PadConfigText[0]=Classic
+PadConfigText[1]=Goofy
+InfoTextClassic[0]=quick heal
+InfoTextClassic[1]=next weapon
+InfoTextClassic[2]=action/reload
+InfoTextClassic[3]=previous weapon
+InfoTextClassic[4]=crouch
+InfoTextClassic[5]=jump
+InfoTextClassic[6]=alt fire
+InfoTextClassic[7]=fire
+InfoTextClassic[8]=none
+InfoTextClassic[9]=none
+InfoTextClassic[10]=none
+InfoTextClassic[11]=game menu
+InfoTextClassic[12]=center view
+InfoTextClassic[13]=next item
+InfoTextClassic[14]=center view
+InfoTextClassic[15]=previous item
+InfoTextClassic[16]=move
+InfoTextClassic[17]=look
+InfoTextGoofy[0]=quick heal
+InfoTextGoofy[1]=next weapon
+InfoTextGoofy[2]=action/reload
+InfoTextGoofy[3]=previous weapon
+InfoTextGoofy[4]=crouch
+InfoTextGoofy[5]=jump
+InfoTextGoofy[6]=alt fire
+InfoTextGoofy[7]=fire
+InfoTextGoofy[8]=none
+InfoTextGoofy[9]=none
+InfoTextGoofy[10]=none
+InfoTextGoofy[11]=game menu
+InfoTextGoofy[12]=center view
+InfoTextGoofy[13]=next item
+InfoTextGoofy[14]=center view
+InfoTextGoofy[15]=previous item
+InfoTextGoofy[16]=forward/turn
+InfoTextGoofy[17]=lookup/strafe
+PadConfigXBoxText[0]=Classic 
+PadConfigXBoxText[1]=Goofy 
+PadConfigXboxText[2]=Classic XIII
+PadConfigXboxText[3]=Goofy XIII
+InfoTextClassicHalo[0]=jump
+InfoTextClassicHalo[1]=previous weapon
+InfoTextClassicHalo[2]=action/reload
+InfoTextClassicHalo[3]=next weapon
+InfoTextClassicHalo[5]=quick heal
+InfoTextClassicHalo[6]=alt fire
+InfoTextClassicHalo[7]=fire
+InfoTextClassicHalo[9]=cycle inventory
+InfoTextClassicHalo[12]=game menu
+InfoTextClassicHalo[14]=[press] duck
+InfoTextClassicHalo[15]=bot order
+InfoTextClassicHalo[16]=move
+InfoTextClassicHalo[17]=look
+InfoTextGoofyHalo[0]=jump
+InfoTextGoofyHalo[1]=previous weapon
+InfoTextGoofyHalo[2]=action/reload
+InfoTextGoofyHalo[3]=next weapon
+InfoTextGoofyHalo[5]=quick heal
+InfoTextGoofyHalo[6]=alt fire
+InfoTextGoofyHalo[7]=fire
+InfoTextGoofyHalo[9]=cycle inventory
+InfoTextGoofyHalo[12]=game menu
+InfoTextGoofyHalo[14]=[press] duck
+InfoTextGoofyHalo[15]=bot order
+InfoTextGoofyHalo[16]=forward/turn
+InfoTextGoofyHalo[17]=lookup/strafe
+InfoTextClassicXIII[0]=action/reload
+InfoTextClassicXIII[1]=previous weapon
+InfoTextClassicXIII[2]=jump
+InfoTextClassicXIII[3]=alt fire
+InfoTextClassicXIII[5]=quick heal
+InfoTextClassicXIII[6]=next weapon
+InfoTextClassicXIII[7]=fire
+InfoTextClassicXIII[9]=cycle inventory
+InfoTextClassicXIII[12]=game menu
+InfoTextClassicXIII[14]=[press] duck
+InfoTextClassicXIII[15]=bot order
+InfoTextClassicXIII[16]=move
+InfoTextClassicXIII[17]=look
+InfoTextGoofyXIII[0]=action/reload
+InfoTextGoofyXIII[1]=previous weapon
+InfoTextGoofyXIII[2]=jump
+InfoTextGoofyXIII[3]=alt fire
+InfoTextGoofyXIII[5]=quick heal
+InfoTextGoofyXIII[6]=next weapon
+InfoTextGoofyXIII[7]=fire
+InfoTextGoofyXIII[9]=cycle inventory
+InfoTextGoofyXIII[12]=game menu
+InfoTextGoofyXIII[14]=[press] duck
+InfoTextGoofyXIII[15]=bot order
+InfoTextGoofyXIII[16]=forward/turn
+InfoTextGoofyXIII[17]=lookup/strafe
+sYes=Yes
+sNo=No
+
+[XIIIMenuInGameControlsWindow]
+sYes=Yes
+sNo=No
+RumblePS2Text=Vibration
+RumbleCUBEText=Rumble
+RumbleText=Vibration
+AutoAimText=Auto Aim
+LSpeedPS2Text=Look sensitivity 
+LSpeedText=Look sensitivity 
+InvPadText=Invert Look
+PadConfigText[0]=Classic
+PadConfigText[1]=Goofy
+InfoTextClassic[0]=quick heal
+InfoTextClassic[1]=next weapon
+InfoTextClassic[2]=action/reload
+InfoTextClassic[3]=previous weapon
+InfoTextClassic[4]=crouch
+InfoTextClassic[5]=jump
+InfoTextClassic[6]=alt fire
+InfoTextClassic[7]=fire
+InfoTextClassic[8]=none
+InfoTextClassic[9]=none
+InfoTextClassic[10]=none
+InfoTextClassic[11]=game menu
+InfoTextClassic[12]=center view
+InfoTextClassic[13]=next item
+InfoTextClassic[14]=center view
+InfoTextClassic[15]=previous item
+InfoTextClassic[16]=move
+InfoTextClassic[17]=look
+InfoTextGoofy[0]=quick heal
+InfoTextGoofy[1]=next weapon
+InfoTextGoofy[2]=action/reload
+InfoTextGoofy[3]=previous weapon
+InfoTextGoofy[4]=crouch
+InfoTextGoofy[5]=jump
+InfoTextGoofy[6]=alt fire
+InfoTextGoofy[7]=fire
+InfoTextGoofy[8]=none
+InfoTextGoofy[9]=none
+InfoTextGoofy[10]=none
+InfoTextGoofy[11]=game menu
+InfoTextGoofy[12]=center view
+InfoTextGoofy[13]=next item
+InfoTextGoofy[14]=center view
+InfoTextGoofy[15]=previous item
+InfoTextGoofy[16]=forward/turn
+InfoTextGoofy[17]=lookup/strafe
+PadConfigXBoxText[0]=Classic 
+PadConfigXBoxText[1]=Goofy 
+PadConfigXboxText[2]=Classic XIII
+PadConfigXboxText[3]=Goofy XIII
+InfoTextClassicHalo[0]=jump
+InfoTextClassicHalo[1]=previous weapon
+InfoTextClassicHalo[2]=action/reload
+InfoTextClassicHalo[3]=next weapon
+InfoTextClassicHalo[4]=crouch
+InfoTextClassicHalo[5]=quick heal
+InfoTextClassicHalo[6]=alt fire
+InfoTextClassicHalo[7]=fire
+InfoTextClassicHalo[8]=none
+InfoTextClassicHalo[9]=cycle inventory
+InfoTextClassicHalo[10]=none
+InfoTextClassicHalo[11]=game menu
+InfoTextClassicHalo[12]=game menu
+InfoTextClassicHalo[13]=next item
+InfoTextClassicHalo[14]=[press] duck
+InfoTextClassicHalo[15]=bot order
+InfoTextClassicHalo[16]=move
+InfoTextClassicHalo[17]=look
+InfoTextGoofyHalo[0]=jump
+InfoTextGoofyHalo[1]=previous weapon
+InfoTextGoofyHalo[2]=action/reload
+InfoTextGoofyHalo[3]=next weapon
+InfoTextGoofyHalo[4]=crouch
+InfoTextGoofyHalo[5]=quick heal
+InfoTextGoofyHalo[6]=alt fire
+InfoTextGoofyHalo[7]=fire
+InfoTextGoofyHalo[8]=none
+InfoTextGoofyHalo[9]=cycle inventory
+InfoTextGoofyHalo[10]=none
+InfoTextGoofyHalo[11]=game menu
+InfoTextGoofyHalo[12]=game menu
+InfoTextGoofyHalo[13]=next item
+InfoTextGoofyHalo[14]=[press] duck
+InfoTextGoofyHalo[15]=bot order
+InfoTextGoofyHalo[16]=forward/turn
+InfoTextGoofyHalo[17]=lookup/strafe
+InfoTextClassicXIII[0]=action/reload
+InfoTextClassicXIII[1]=previous weapon
+InfoTextClassicXIII[2]=jump
+InfoTextClassicXIII[3]=alt fire
+InfoTextClassicXIII[5]=quick heal
+InfoTextClassicXIII[6]=next weapon
+InfoTextClassicXIII[7]=fire
+InfoTextClassicXIII[9]=cycle inventory
+InfoTextClassicXIII[12]=game menu
+InfoTextClassicXIII[14]=[press] duck
+InfoTextClassicXIII[15]=bot order
+InfoTextClassicXIII[16]=move
+InfoTextClassicXIII[17]=look
+InfoTextGoofyXIII[0]=action/reload
+InfoTextGoofyXIII[1]=previous weapon
+InfoTextGoofyXIII[2]=jump
+InfoTextGoofyXIII[3]=alt fire
+InfoTextGoofyXIII[5]=quick heal
+InfoTextGoofyXIII[6]=next weapon
+InfoTextGoofyXIII[7]=fire
+InfoTextGoofyXIII[9]=cycle inventory
+InfoTextGoofyXIII[12]=game menu
+InfoTextGoofyXIII[14]=[press] duck
+InfoTextGoofyXIII[15]=bot order
+InfoTextGoofyXIII[16]=forward/turn
+InfoTextGoofyXIII[17]=lookup/strafe
+SaveQuestionTitle=Options changed
+SaveQuestionText=Do you want to save your settings ?
+
+[XIIILiveWindow]
+pleaseWaitString=Please wait...
+networkcableDisconnectedString=Network cable disconnected!
+networkTroubleShoot=Your Xbox console cannot connect to Xbox Live. Select OK to start the troubleshooter or CANCEL to go to the previous menu.
+doubleLoginString=You were signed out of Xbox Live because another person signed on using your account.
+
+[XIIIMenuLiveSettings]
+TitleText=Xbox Live options
+LabelNames[0]=Appear online
+LabelNames[1]=Mute all voice
+LabelNames[2]=Voice through speakers
+LabelNames[3]=Enable voice masking
+LabelNames[4]=Active voice mask
+LabelNames[5]=Skin
+YesString=Yes
+NoString=No
+OffString=Off
+VoiceStrings[0]=Anonymous
+VoiceStrings[1]=WalkieTalkie
+VoiceStrings[2]=RobotAngel
+VoiceStrings[3]=Boogieman
+VoiceStrings[4]=RobotLord1
+VoiceStrings[5]=RobotLord2
+VoiceStrings[6]=Donald
+VoiceStrings[7]=GenderBender
+VoiceStrings[8]=RobotChild1
+VoiceStrings[9]=RobotChild2
+VoiceStrings[10]=WhisperChild
+VoiceStrings[11]=NoHomers
+VoiceStrings[12]=Android
+VoiceStrings[13]=Robot
+
+[XIIIMenuLivePassword]
+TitleText=Enter passcode
+wrongPasscodeString=Wrong pass code!
+
+[XIIIMenuLiveOptimatchWindow]
+TitleText=Optimatch Menu
+LabelNames[0]=Game type
+LabelNames[1]=Map name
+LabelNames[2]=Min players
+LabelNames[3]=Max players
+LabelNames[4]=Friendly fire
+LabelNames[5]=Language
+EnglishString=English
+FrenchString=French
+GermanString=German
+SpanishString=Spanish
+SwedishString=Swedish
+DutchString=Dutch
+ItalianString=Italian
+GameTypeList[0]=Deathmatch
+GameTypeList[1]=Team Deathmatch
+GameTypeList[2]=Capture the Flag
+GameTypeList[3]=Sabotage
+GameTypeList[4]=Duel
+YesString=Yes
+NoString=No
+Anystring=Any
+
+[XIIIMenuLiveCreateWindow]
+TitleText=Create game menu
+EnglishString=English
+FrenchString=French
+GermanString=German
+SpanishString=Spanish
+SwedishString=Swedish
+DutchString=Dutch
+ItalianString=Italian
+Anystring=Any
+AllString=All
+BeginnerString=Beginner
+BelowAverageString=Below average
+AverageString=Average
+AboveAverageString=Above average
+SkilledString=Skilled
+ProString=Pro
+EliteString=Elite
+WarningString=Warning
+WarningTooManyPlayers=Network conditions may affect this game
+LabelNames[0]=Game type
+LabelNames[1]=Map name
+LabelNames[2]=Public slots
+LabelNames[3]=Private slots
+LabelNames[4]=Frag limit
+LabelNames[5]=Time limit
+LabelNames[6]=Friendly fire
+LabelNames[7]=Language
+LabelNames[8]=Min skill
+LabelNames[9]=Max skill
+GameTypeList[0]=Deathmatch
+GameTypeList[1]=Team Deathmatch
+GameTypeList[2]=Capture the Flag
+GameTypeList[3]=Sabotage
+GameTypeList[4]=Duel
+YesString=Yes
+NoString=No
+
+[XIIIMenuLiveStartup]
+TitleText=Please wait
+creatingSessionString=Creating session
+pleaseWaitString=Please wait...
+
+[XIIIMenuLiveFriendsMainPage]
+TitleText1=Players list
+TitleText2=Friends
+TitleText3=Recent players
+YouHaveNoFriends=You have no friends yet
+strLRHelp=Left/Right - Player/Friend Menues
+strPlaying=Playing
+strOnlineStatus[0]=Game invite received
+strOnlineStatus[1]=Friend request received
+strOnlineStatus[2]=You sent a game invitation
+strOnlineStatus[3]=You request friendship
+strOnlineStatus[4]=Online
+strOnlineStatus[5]=Offline
+
+[XIIIMenuLiveFeedback]
+TitleText=Friends - Online
+strFeedback1=Are you sure you want to send a 'Good Attitude' feedback for this player?
+strFeedback2=Are you sure you want to send a 'Great Session' feedback for this player?
+strFeedback3=Are you sure you want to send a 'Bad Name' feedback for this player?
+strFeedback4=Are you sure you want to send a 'Cheating' feedback for this player?
+strFeedback5=Are you sure you want to send a 'Screaming' feedback for this player?
+strFeedback6=Are you sure you want to send a 'Threats or Harassment' feedback for this player?
+strFeedback7=Are you sure you want to send a 'Cursing or Lewdness' feedback for this player?
+ButtonNames[0]=Good attitude
+ButtonNames[1]=Great session
+ButtonNames[2]=Bad name
+ButtonNames[3]=Cheating
+ButtonNames[4]=Screaming
+ButtonNames[5]=Threats or harassment
+ButtonNames[6]=Cursing or lewdness
+LabelNames[0]=Feedback
+LabelNames[1]=Complaints
+
+[XIIIMenuLivePlayerList]
+TitleText1=Players list
+TitleText2=Friends
+TitleText3=Recent players
+strLRHelp=Left/Right - Player/Friend menues
+strOnlineStatus[0]=Game invite received
+strOnlineStatus[1]=Friend request received
+strOnlineStatus[2]=You sent a game invitation
+strOnlineStatus[3]=You request friendship
+strOnlineStatus[4]=Online
+strOnlineStatus[5]=Offline
+
+[XIIIMenuInGameXboxLive]
+TeamText=Change team
+OptionsText=Controls
+QuitText=Quit game
+FriendsText=Players / Friends
+OnlineOptionsText=Xbox Live options
+ReturnText=Return to game
+RestartText=Restart game
+QuitText2=Leaving the game now will end this session. Are you sure?
+kickedString=You have been kicked from the session!
+serverDownString=The game session has shutdown!
+ConfirmQuitTxt=Are you sure?
+statwritefailedString=Your statistics weren't writen correctly!
+statwritestartingString=Updating your statistics, please be patient.
+
+[XIIIMenuLiveJoinMsgBox]
+ConnectingMsgBoxMenuTitle=Connection status
+ConnectingText=Connecting to the game session....
+
+[XIIIMenuFreeBlock]
+TitleText=Your Xbox doesn’t have enough free blocks to save games. You must free %nbblocks% extra blocks. Press A to continue without saving or B to free more blocks.
+
+[XIIIMenuLivePlayerMenuSelectedGamerTag]
+ButtonNames[0]=Accept friend request
+ButtonNames[1]=Decline friend request
+ButtonNames[2]=Block friend request
+ButtonNames[3]=Set voice status
+ButtonNames[4]=Kick
+ButtonNames[5]=Feedback
+strTitle=Player menu
+strVoiceOn=Voice is on
+strVoiceMuted=Voice is muted
+strAcceptFriendRequestQuestion=Are you sure you want to accept this friend request?
+strDeclineFriendRequestQuestion=Are you sure you want to decline this friend request?
+strBlockFriendRequestQuestion=Are you sure you want to block all further friend requests from this player?
+strKickPlayerQuestion=Are you sure you want to kick this player?
+
+[XIIIMenuLiveScoreboardView]
+strName=Name
+strKills=K
+strDeaths=D
+strGames=GP
+strGamesWon=GW
+strMinutes=MP
+strFlagsCaptured=FC
+strFlagsReturned=FR
+strSuicide=S
+strFetching=Retrieving...
+strTitle[0]=Deathmatch
+strTitle[1]=Team Deathmatch
+strTitle[2]=Capture the Flag
+strTitle[3]=Sabotage
+strTitle[4]=Deathmatch Ladder
+HelpBarText=Use Up/Down/Left/Right to scroll through the statistics
+
+[XIIIMenuLiveOldPlayerList]
+TitleText1=Players list
+TitleText2=Friends
+TitleText3=Recent players
+strLRHelp=Left/Right - Player/Friend menues
+strOnlineStatus[0]=Game invite received
+strOnlineStatus[1]=Friend request received
+strOnlineStatus[2]=You sent a game invitation
+strOnlineStatus[3]=You request friendship
+strOnlineStatus[4]=Online
+strOnlineStatus[5]=Offline
+
+[XIIIMenuLiveFriendsOnline]
+TitleText=Friends - Online
+ButtonNames[0]=Send a game invitation
+ButtonNames[1]=Remove friend
+ButtonNames[2]=Join
+ButtonNames[3]=Accept invite
+strOnline=Online
+strAcceptGameInviteQuestion=Are you sure you want to accept this game invitation?
+strJoinFriend=Are you sure you want to join your friend?
+strRemoveFriendQuestion=Are you sure you want to remove your friend?
+strSendGameInviteQuestion=Are you sure you want to send a game invite to your friend?
+pleaseInsertGameString=Please insert game disc for 
+strLeaving=Leaving the game now will end this session.
+strNoSession=This session is no longer available. Press OK to continue.
+
+[XIIIMenuLiveScoreboardViewFriends]
+strName=Name
+strKills=K
+strDeaths=D
+strGames=GP
+strGamesWon=GW
+strMinutes=MP
+strFlagsCaptured=FC
+strFlagsReturned=FR
+strSuicide=S
+strFetching=Retrieving...
+strTitle[0]=Deathmatch
+strTitle[1]=Team Deathmatch
+strTitle[2]=Capture the Flag
+strTitle[3]=Sabotage
+strTitle[4]=Deathmatch Ladder
+HelpBarText=Use Up/Down/Left/Right to scroll through the statistics
+
+[XIIIMenuLiveGameInviteReceived]
+ButtonNames[0]=Accept game invitation
+ButtonNames[1]=Decline game invitation
+ButtonNames[2]=Remove friend
+playlabelstring=Your friend is playing
+strInviteReceived=" - Game invite received"
+strAcceptGameInviteQuestion="Are you sure you want to accept this game invitation?"
+strDeclineGameInviteQuestion=Are you sure you want to decline this game invitation?
+strRemoveFriendQuestion=Are you sure you want to remove your friend?
+pleaseInsertGameString=Please insert game disc for 
+strLeaving=Leaving the game now will end this session.
+strNoSession=This session is no longer available. Press OK to continue.
+
+[XIIIMenuLiveOptimatchResultWindow]
+TitleText=Choose Optimatch
+noOptimatchResultString=No session found!|Please change your search parameters.
+LabelNames[0]=Game type
+LabelNames[1]=Map name
+LabelNames[2]=Players
+LabelNames[3]=Friendly fire
+LabelNames[4]=Cycle levels
+LabelNames[5]=Language
+LabelNames[6]=Frag limit
+LabelNames[7]=Time limit
+EnglishString=English
+FrenchString=French
+GermanString=German
+SpanishString=Spanish
+SwedishString=Swedish
+DutchString=Dutch
+ItalianString=Italian
+probeFailedString=Failed to probe sessions
+GameTypeStrings[0]=Deathmatch
+GameTypeStrings[1]=Team Deathmatch
+GameTypeStrings[2]=Capture The Flag
+GameTypeStrings[3]=Duel
+GameTypeStrings[4]=Sabotage
+GameTypeStrings[5]=Invalid Gametype
+YesString=Yes
+NoString=No
+Anystring=Any
+failedToJoinString=This game session is no longer available
+noGamesFoundString="No games found. Create one?"
+
+[XIIIMenuLivePlayerMenuSelectedGamerTagAlreadyFriend]
+ButtonNames[0]=Remove friend
+ButtonNames[1]=Set voice status
+ButtonNames[2]=Kick
+ButtonNames[3]=Feedback
+strTitle=Player menu
+strVoiceOn=Voice is on
+strVoiceMuted=Voice is muted
+strKickPlayerQuestion=Are you sure you want to kick this player?
+strRemoveFriendQuestion=Are you sure you want to remove your friend?
+
+[XIIIMenuLivePlayerMenuSelectedGamerTagNothing]
+ButtonNames[0]=Send friend request
+ButtonNames[1]=Set voice status
+ButtonNames[2]=Kick
+ButtonNames[3]=Feedback
+strTitle=Player menu
+strVoiceOn=Voice is on
+strVoiceMuted=Voice is muted
+strKickQuestion=Are you sure you want to kick this player?
+strSendFriendRequestQuestion=Are you sure you want to send this friend request?
+
+[XIIIMenuLiveScoreboard]
+TitleText=Scoreboards
+kills=Kills
+Deaths=Deaths
+suicides=Suicides
+gamesplayed=Games played
+gameswon=Games won
+minutesplayed=Minutes played
+flagscapt=Flags captured
+flagsret=Flags returned
+s_kills=K
+s_deaths=D
+s_suicides=S
+s_gamesplayed=GP
+s_gameswon=GW
+s_minutesplayed=MP
+s_flagscapt=FC
+s_flagsret=FR
+ButtonNames[0]=Deathmatch
+ButtonNames[1]=Team Deathmatch
+ButtonNames[2]=Capture the Flag
+ButtonNames[3]=Sabotage
+ButtonNames[4]=Deathmatch Ladder
+
+[XIIIMenuLivePlayerMenuSelectedGamerTagSentFriendRequest]
+ButtonNames[0]=Cancel friend request
+ButtonNames[1]=Set voice status
+ButtonNames[2]=Kick
+ButtonNames[3]=Feedback
+strTitle=Player menu
+strVoiceOn=Voice is on
+strVoiceMuted=Voice is muted
+strCancelFriendRequestQuestion=Are you sure you want to cancel your friend request?
+strKickPlayerQuestion=Are you sure you want to kick this player?
+
+[XIIIMenuLiveJoinStartWindow]
+TitleText=Start/Join Menu
+ButtonNames[0]=Quick DM
+ButtonNames[1]=Quick Team DM
+ButtonNames[2]=Quick CTF
+ButtonNames[3]=Quick Sabotage
+ButtonNames[4]=Optimatch
+ButtonNames[5]=Create game
+ButtonNames[6]=Ladder game
+
+[XIIIMenuLiveFriendsshipRequested]
+ButtonNames[0]=Accept friend request
+ButtonNames[1]=Decline friend request
+ButtonNames[2]=Block friend request
+strFriendshipRequested=" - Friendship requested"
+strAcceptFriendInviteQuestion="Are you sure you want to accept this friend request?"
+strDeclineFriendInviteQuestion="Are you sure you want to decline this friend request?"
+strBlockFriendQuestion=Are you sure you want to block all further requests from this player?
+
+[XIIIMenuLiveAccountWindow]
+newAccountString=[NEW ACCOUNT]
+TitleText=Choose account
+failedToLoginString=Failed to sign in user!
+newAccountString2=New account
+areYouSureString=Are you sure you wish to exit and create a new Xbox Live account?
+
+[XIIIMenuLiveFriendsInvited]
+ButtonNames[0]=Cancel game invitation
+ButtonNames[1]=Remove friend
+strGameInvite=Invited
+strRemoveFriendQuestion=Are you sure you want to remove your friend?
+strRevokeGameInviteQuestion=Are you sure you want to revoke your game invitation?
+
+[XIIIMenuLiveFriendsOffline]
+TitleText=Friends - Online
+ButtonNames[0]=Send a game invitation
+ButtonNames[1]=Remove friend
+strOffline=Offline
+strRemoveFriendQuestion=Are you sure you want to remove your friend?
+strSendGameInviteQuestion=Are you sure you want to send a game invite to your friend?
+
+[XIIIMenuLiveLoginWait]
+TitleText=Signing in
+failedToLoginString=Failed to sign in!
+strMustUpdateXBE=A required update is available for the Xbox Live service. Select OK to update or CANCEL to go back to the previous menu. You cannot connect to Xbox Live until the update is installed.
+strManageAccount=You have an important message from Xbox Live. Select OK to read the message.
+strLookAtMessage=You have a new Xbox Live message. Select OK to read the message now, or CANCEL to read it later.
+serverBusyString=The Xbox Live service is very busy. Press OK to try again or CANCEL to go back.
+strInvalidUser=This account is not current. Select OK to update the account in Account Recovery or CANCEL to go back.
+
+[XIIIMenuLiveMainWindow]
+TitleText=Xbox Live Menu
+strBootToDownloadableContentManager=Are you sure you wish to leave the game and download new content?
+strQuitXboxLive=Are you sure you want to Sign Out of Xbox Live?
+ButtonNames[0]=Start / Join a game
+ButtonNames[1]=Friends
+ButtonNames[2]=Xbox Live options
+ButtonNames[3]=View scoreboard
+ButtonNames[5]=Download new Content
+ButtonNames[4]=Sign Out Xbox Live
+
+[XIIIMenuLiveQuickmatchWindow]
+TitleText=Quickmatch
+connectingString=Connecting
+searchingString=Searching
+noGamesFoundString=No games found. Create one?
+failedToJoinString=This game session is no longer available
+
+[XIIIMenuLiveOldPlayerMenuSelectedGamerTagNothing]
+ButtonNames[0]=Send friend request
+ButtonNames[1]=Feedback
+strTitle=Player menu
+strSendGameInviteQuestion=Are you sure you want to send a game invite to this player?
+strSendFriendRequestQuestion=Are you sure you want to send this friend request?
+
+[XIIIMenuLiveScoreboardMain]
+ButtonNames[0]=User stats
+ButtonNames[1]=Overall stats
+ButtonNames[2]=Friends stats
+ButtonNames[3]=Reset
+failedToResetString=Failed to reset statistics!
+sureResetStatsString=Are you sure you want to reset your statistics for this game mode?
+failedToGetStatsString=Failed to get statistics!
+failedStatsUserNonexistant=Failed to get statistics, user does not yet exist on this leaderboard.
+failedFSYouhavenofriends=Failed to get Friends statistics, you have no Friends yet.
+strTitle[0]=Deathmatch
+strTitle[1]=Team Deathmatch
+strTitle[2]=Capture the Flag
+strTitle[3]=Sabotage
+strTitle[4]=Deathmatch Ladder
+
+[XIIIMenuLiveFriendsCancelFriendRequest]
+ButtonNames=Cancel friend request
+strRequested=Friend request
+strCancelFriendRequestQuestion=Are you sure you want to cancel your friend request?
+
+[XIIIMenuLiveDownload]
+TitleText=Download content
+
+[XIIIMenuLiveOldPlayerMenuSelectedGamerTagNothingFriend]
+ButtonNames[0]=Send a game invitation
+ButtonNames[1]=Feedback
+strTitle=Player menu
+strSendGameInviteQuestion=Are you sure you want to send a game invite to your friend?
+
+[XIIIMenuLiveJoinFriendWindow]
+TitleText=Joining friend
+failedToFindSessionString=This game session is no longer available.
+failedToJoinSessionString=This game session is no longer available.
+sameSessionString=Already in same session!
+
+[XIIIMenuVirtualKeyboard]
+OKText=Ok
+CancelText=Cancel
+CapsText=Capitals
+DelText=Delete
+
+[XIIIMenuInGameMultiKick]
+BackText=Back
+
+[XIIIMenuMultiBase]
+GameTypeText[0]=Deathmatch
+GameTypeText[1]=Team Deathmatch
+GameTypeText[2]=Capture The Flag
+GameTypeText[3]=The Hunt
+GameTypeText[4]=Sabotage
+GameTypeText[5]=Power Up
+
+[XIIIMenuMultiGSGetServerInfoMsgBox]
+AskingDetailsText=Querying game server.|Please wait.
+ServerNoLongerAvailableText=This server is no longer available
+OkText=Ok
+
+[XIIIWindow]
+MyFailureMessage[0]="Назва облікового запису вже існує."
+MyFailureMessage[1]="- ім'я облікового запису має починатися з літери."
+MyFailureMessage[2]="- Ім'я облікового запису має містити принаймні 3 символи."
+MyFailureMessage[3]="- Ім’я облікового запису має містити лише літери, цифри, підкреслення, крапки чи тире."
+MyFailureMessage[4]="Назва облікового запису містить заборонені символи."
+MyFailureMessage[5]="Ім'я облікового запису зарезервовано."
+MyFailureMessage[6]="- Пароль має містити принаймні 2 символи."
+MyFailureMessage[7]="- Пароль не повинен містити ваш логін."
+MyFailureMessage[8]="Виникла проблема з базою даних."
+MyFailureMessage[9]="Назва облікового запису недійсна."
+MyFailureMessage[10]="Пароль недійсний."
+MyFailureMessage[11]="Ваш обліковий запис заблоковано"
+MyFailureMessage[12]="Ваш обліковий запис тимчасово закрито. Повторіть спробу пізніше (15 хв.)"
+MyFailureMessage[13]="Ваш обліковий запис заблоковано"

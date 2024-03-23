@@ -1,0 +1,94 @@
+[LevelInfo0]
+Title=PRock03
+
+[DialogueManager5]
+Speakers="((PawnName="XIII",Sentences=("","","","Відійди від дверей! У мене заручник!")))"
+
+[DialogueManager9]
+Speakers=((PawnName="Maton1",Sentences=("Чекай! У нього Карен!")))
+
+[DialogueManager3]
+Speakers=((PawnName="Fou3",Sentences=("Mммммм...","Аaaaaaa!!!","Я... Я не знаю!","Aaaaа!")),(PawnName="Johansson",Sentences=("Цей інструмент недостатньо стимулює тебе розмовляти, чи не так? Як щодо цього?","Кажи... Хто вбив медсестру крила С?","Вона померла, не встигнувши відчути мій найпотужніший інструмент!","Тоді вона б погодилася бути зі мною, ти знав про це? Га? ")))
+
+[DialogueManager19]
+Speakers="((PawnName="Johansson",Sentences=("","","","","Гарненькі медсестери - рідкість у Плейн-Рок! Ти це знаєш?","Прокляття! Він мертвий! Тупий вишкребок!","")),(PawnName="Fou3",Sentences=("","","","","Угххх!")))"
+
+[DialogueManager13]
+Speakers=((PawnName="Maton3",Sentences=("Відставити вогонь!")))
+
+[DialogueManager20]
+Speakers=((PawnName="Infirmiere1",Sentences=("","","","","","","Охорона!")))
+
+[DialogueManager8]
+Speakers=((PawnName="HP",Sentences=("Увага, персонал. Пацієнта з крила С досі не знайдено. Його необхідно нейтралізувати. Ця особина надзвичайно небезпечна. Дозволено використання вогнепальної зброї. Повторюю, дозволено використання вогнепальної зброї.")))
+
+[DialogueManager6]
+Speakers=((PawnName="MedecinB",Sentences=("Ні! Не стріляй!")))
+
+[DialogueManager4]
+Speakers=((PawnName="Fou1",Sentences=("Уууххх...","УААААА!")),(PawnName="Infirmiere2",Sentences=("Докторе Йоханссон...? Чому двері зачинені?","Aaaaа!","Відкрийте двері, докторе Йоханссон! ","Докторе Йоханссон!","Агов! Ти!... Будь ласка витягни мене звідси!","Благаю, допоможи...")),(PawnName="XIIIa",Sentences=("Який жах...")))
+
+[DialogueManager11]
+Speakers=((PawnName="Infirmiere1",Sentences=("","","","","","","","О Господи!","","Боже! Захисти мене!")))
+
+[DialogueManager10]
+Speakers=((PawnName="Johansson",Sentences=("","","","","","","Га?","Що ж... Номер XIII! Зараз вас прийме лікар...","Пропоную почати з вашого розтину. Прямо зараз!")))
+
+[PRock0]
+Objectif=((GoalText="Знайдіть спосіб вибратися з в'язниці."),(GoalText="Використайте заручника, щоб пройти контрольно-пропускний пункт."),(GoalText="Не вбивайте мед. персонал."))
+MessageGameOver=("","","Ви вбили невинну людину.")
+
+[DialogueManager22]
+Speakers=((PawnName="Johansson",Sentences=("","","","","","","","","","То як? Вже відчуваєш як моя сироватка тече по твоїх венах? Хa! Хa! Хa!")))
+
+[DialogueManager15]
+Speakers=((PawnName="XIII",Sentences=("","Мій передавач... нарешті.")))
+
+[DialogueManager17]
+Speakers=((PawnName="Infirmiere1",Sentences=("","","","","","","","","Відкрий ці кляті двері!")))
+
+[DialogueManager23]
+Speakers=((PawnName="Johansson",Sentences=("","","","","","","","","","","Хa! Хa! Хa!")))
+
+[DialogueManager24]
+Speakers=((PawnName="Johansson",Sentences=("","","","","","","","","","","","Хa! Хa! Хa! Спробуй це!")))
+
+[DialogueManager18]
+Speakers=((PawnName="MedecinA",Sentences=("Фу! Ще один пацюк!","Прошу! Не стріляй!")))
+
+[DialogueManager16]
+Speakers=((PawnName="Fou1",Sentences=("мхмм…","Раааа !!!")),(PawnName="Infirmiere2",Sentences=("","","","","","","","Ох... Дякую, дуже дякую!","Візьми мене в заручники!","У тебе немає вибору.")),(PawnName="XIIIa",Sentences=("","","","Всім відійти від дверей! У мене заручник!")),(PawnName="Maton1a",Sentences=("Він всередині! Вимкніть заходи безпеки!")))
+
+[DialogueManager14]
+Speakers=((PawnName="XIII",Sentences=("","","Джонс... Чуєш мене?")),(PawnName="Jones",Sentences=("Голосно і чітко. Моя пташка зависла над будівлею... Забирайся звідти! Хутчіш!")))
+
+[DialogueManager21]
+Speakers=((PawnName="Infirmiere1",Sentences=("","","","","","Ла-ла-ла!")))
+
+[CWndSFXTrigger4]
+OverLayMessage0=("Номер 20")
+
+[DialogueManager25]
+Speakers=((PawnName="Infirmiere1",Sentences=("Доброго вечора, докторе Майкл!","Жодних. Господи, Йоханссон так розлютився!","Бідолашний! Пам'ятаю, коли моя Лулу...","Привітайте свою дружину від мене!","Позіхає","Ла-ла-ла!","Охорона!")),(PawnName="Medecin",Sentences=("Позіхає","Доброго вечора, Брендо. Чи є новини про пацієнта з амнезією?","Я більше не можу терпіти його істерику. Все, я йду додому! Скажи Йоханссону, що моя дружина народжує, або що у мого пуделя стався нервовий зрив...","Так-так, Брендо. До завтра!")))
+
+[DialogueManager1]
+Speakers=((PawnName="maton2",Sentences=("Де мої лінзи? Такими темпами я ніколи не знайду свій ключ доступу.")))
+
+[DialogueManager12]
+Speakers=((PawnName="Infirmiere2",Sentences=("","","","","","","Будь ласка...")))
+
+[DialogueManager0]
+Speakers=((PawnName="Infirmiere1",Sentences=("Доброго вечора, докторе Майкл!","Жодних. Господи, Йоханссон так розлютився!","Бідолашний! Пам'ятаю, коли моя Лулу...","Привітайте свою дружину від мене!","Позіхає","Ла-ла-ла!","Охорона!")),(PawnName="Medecin",Sentences=("Позіхає","Доброго вечора, Брендо. Чи є новини про пацієнта з амнезією?","Я більше не можу терпіти його істерику. Все, Я йду додому! Скажи Йоханссону, що моя дружина народжує, або що у мого пуделя стався нервовий зрив...","Так-так, Брендо. До завтра!")))
+
+[DialogueManager2]
+Speakers=((PawnName="XIII",Sentences=("Святилище...")),(PawnName="Carrington",Sentences=("Їх, двадцять, сину! Двадцять змовників, що ховаються за цифрами.")),(PawnName="Willard",Sentences=("Панове...","Для мене велика честь вітати лідерів Групи у своєму маєтку. І оскільки престиж цього середовища відповідає нашим амбіціям, я скромно пропоную організувати нашу загальну зустріч тут!")))
+
+[LevelSummary]
+Title=PRock03
+
+[DialogueManager7]
+Speakers=((PawnName="MedecinA",Sentences=("Фу! Ще один пацюк!","Прошу! Не стріляй!")),(PawnName="Infirmiere2a",Sentences=("Уах! Принаймні вони могли хоча б закрити вентиляційний отвір з моргу.","Обережно!")))
+
+[DialogueManager26]
+Speakers=((PawnName="Wax",Sentences=("Ммммм!")))
+

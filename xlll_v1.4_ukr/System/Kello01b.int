@@ -1,0 +1,67 @@
+[LevelInfo0]
+Title=kello01b
+
+[DialogueManager5]
+Speakers=((PawnName="Fbi1",Sentences=("Покидьку нікуди тікати!","Ми повинні оточити його!")))
+
+[DialogueManager10]
+Speakers=((PawnName="Spads2",Sentences=("Він труп!","Кінчай з ним!")))
+
+[DialogueManager8]
+Speakers=((PawnName="Fbi2",Sentences=("За ним, хлопці!")))
+
+[DialogueManager9]
+Speakers=((PawnName="KKK1",Sentences=("Ніякого милосердя!")))
+
+[DialogueManager3]
+Speakers=((PawnName="HFCarringtonH",Sentences=("Виведи Кім через задній хід хатини. Ми посадимо гелікоптер неподалік!")))
+
+[DialogueManager4]
+Speakers="((PawnName="HFJones",Sentences=("Бачу Кім! Я витягну її. Почекай... Що вона робить? Чорт, вона тікає!","Давай, хутко на евакуацію! Так і знала, що ми не повинні були їй довіряти...")))"
+
+[DialogueManager2]
+Speakers=((PawnName="Kim",Sentences=("Не ворушись!","Боже мій! Ти вцілів?")),(PawnName="XIII",Sentences=("Кім... Дівчина з фотографії...")))
+
+[LevelSummary]
+Title=kello01b
+
+[BreakAbleMover1]
+LockedMessage=
+
+[DialogueManager11]
+Speakers=((PawnName="tueur1",Sentences=("Діставайте РПГ!","Винесіть срану стіну!")))
+
+[MessageTrigger0]
+TriggeredMsg=END_wave1
+
+[MessageTrigger2]
+TriggeredMsg=END_fond
+
+[XIIISaveGameTrigger1]
+SaveDescription=Sauvegarde chalet
+
+[DialogueManager0]
+Speakers=((PawnName="Kim",Sentences=("","","Слухай. Я ідентифікувала трьох учасників Групи. Вони прямують до табору спец. загону на таємну зустріч. Ти також повинен бути там! Мою частину місії завершено... Тепер твоя черга.","Що за...!","Прикрий мене!")),(PawnName="tueur1a",Sentences=("Я знайшов її! Сюди!")))
+
+[MessageTrigger3]
+TriggeredMsg=END_helico
+
+[Kello0]
+Objectif=((GoalText="Прикрийте втечу Кім."),(GoalText="Знайдіть Джонс та Керрінгтона."))
+MessageMissionSuccess=Ви втратили свідомість…
+
+[MessageTrigger1]
+TriggeredMsg=END_2droite
+
+[XIIISaveGameTrigger0]
+SaveDescription=Debut
+
+[DialogueManager1]
+Speakers=((PawnName="XIII",Sentences=("","Це обличчя не моє...","То хто ж я?")),(PawnName="KimF",Sentences=("Хірург зробив неймовірну роботу.","Ось, подивись...","Він прокидається...","Стів був номером XIII, я була номером XVII. Лідери Змови відправили Мангуста вбити мого чоловіка. Але Стіву вдалося дістатися сюди, перш ніж померти...","Одного дня я буду знати зрадників у обличчя...","Коли вони побачать привид Стіва, вони будуть шоковані.","Я тримаю тут зброю, про всяк випадок.","Агов! Ти мене чуєш?")),(PawnName="Medecin",Sentences=("Він приходить до тями. Збільшити дозу суфентаміну.","Починайте...")),(PawnName="Infirmiere1",Sentences=("Я почну робити тату?")),(PawnName="Carrington",Sentences=("Як почуваєшся, синку?","Це вдова Стіва Ролланда, людини, чию особу ти отримав.","Я хочу, щоб ВСІ вони горіли у пеклі, чуєш? Навіть номер I. Також я хочу знайти виродка, який вбив мого друга Шерідана... і дізнатись чому.","Вони також можуть зрозуміти, що ти їх зрадила, Кім.")))
+
+[DialogueManager7]
+Speakers=((PawnName="HFJones",Sentences=("","","Стережись! Лавина! Ні!")))
+
+[XIIIDocumentPick0]
+Information=SOME INFO ON XVII
+

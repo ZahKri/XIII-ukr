@@ -1,0 +1,37 @@
+[LevelInfo0]
+Title=sanc02a
+
+[LevelSummary]
+Title=sanc02a
+
+[DialogueManager2]
+Speakers=((PawnName="MIG3a",Sentences=("Так точно.")))
+
+[DialogueManager3]
+Speakers=((PawnName="MIG2a",Sentences=("Так!... Звичайно, їжу перевірили... Нічого незвичного.")))
+
+[DialogueManager1]
+Speakers=((PawnName="MIG3b",Sentences=("","У кого є гроші на такий особняк?","Абсурд... А скільки заробляє сенатор?","Гадаєте залишать щось нам?")),(PawnName="MIG1b",Sentences=("Сенатор Віллард.","Уяви, він придбав руїни європейського абатства, розібрав їх камінь за каменем і знову зібрав на цій скелі!","Достатньо, щоб платити нам за охорону його картин, та харчуватися залишками з банкету!","Мабуть, гостей менше, ніж очікувалося. І якщо вони з’їдять усе, що я бачив на кухні, їм буде непереливки вночі!")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=Sanc02a
+
+[DialogueManager7]
+Speakers=((PawnName="Wax",Sentences=("Безпека номера I не є проблемою, генерале. Я єдиний, хто знає його особу. Анонімність ефективніша за армію охоронців! Інструкції зрозумілі. Продовжуємо операцію!","Патрулюйте цю кімнату!")),(PawnName="Standwell",Sentences=("У такому випадку нам краще піти заспокоїти наших гостей... Гмм... Не забудьте свою мантію...")),(PawnName="Wax",Sentences=("","","Саме так. Номер V хотів дати нам відчути розкіш, яка на нас чекає...","Не знаю. Він не єдиний, хто зник!")),(PawnName="Standwell",Sentences=("","Хмм! Якийсь банкет.","Як ми пояснимо гостям його відсутність?")))
+
+[DialogueManager5]
+Speakers=((PawnName="WIG1",Sentences=("Фішере! Ти там?","Льюіс, це Барнс... Жодних ознак Фішера! Я залишуся тут ненадовго. Відбій.")))
+
+[DialogueManager6]
+Speakers=((PawnName="MIG2b",Sentences=("","Чорт! Я забув свій пропуск!")))
+
+[Sanc02a0]
+Objectif=((GoalText="Знайдіть місце зустрічі клану 20-ти."),(GoalText="Не привертайте увагу членів клану."),(GoalText="l'acces est maintenant verrouille"))
+MessageGameOver=("","Охорона попередила Номера 1. Зустріч скасовано.")
+
+[MessageTrigger2]
+TriggeredMsg=Ca marche, vous entendez un bruit sourd derriere-vous !
+
+[MessageTrigger1]
+TriggeredMsg=Un emplacement pour y mettre un objet !
+

@@ -1,0 +1,28 @@
+[LevelInfo0]
+Title=plage00
+
+[Plage0]
+Objectif=(())
+MessageMissionSuccess=Ви відчуваєте млявість...
+
+[XIIISaveGameTrigger0]
+SaveDescription=Брайтон Біч 1
+
+[DialogueManager13]
+Speakers=((PawnName="XIII",Sentences=("Гелікоптер... Я пам'ятаю...")),(PawnName="HFKim",Sentences=("Це Кім. Як чутно?","Вони тебе засікли. Покинь корабель! Негайно!","","Стрибай з корабля! Хутко!","Я підберу тебе з іншої сторони!","СТРИБАЙ!")),(PawnName="Mangouste",Sentences=("Перевірити усі каюти!","Не дайте йому втекти!","Відкрити вогонь!")),(PawnName="XIIIa",Sentences=("Уфффф... Моя голова...")),(PawnName="Helico"))
+
+[DialogueManager15]
+Speakers=((PawnName="Tueur1",Sentences=("Сюди!")),())
+
+[DialogueManager1]
+Speakers=((PawnName="Pam",Sentences=("","","Пане? Пане! Ви мене чуєте?","Я відведу вас до пункту першої допомоги... Зможете йти?","Обережно!","Дідько!")))
+
+[DialogueManager14]
+Speakers=((PawnName="Tueur3",Sentences=("Я схопив його!")),())
+
+[DialogueManager0]
+Speakers=((PawnName="XIIIb",Sentences=("Не можу нічого згадати...")),(PawnName="Pam",Sentences=("Зможете дійти до авто?","Ммм...?")))
+
+[LevelSummary]
+Title=plage00
+

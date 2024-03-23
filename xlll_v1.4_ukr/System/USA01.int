@@ -1,0 +1,42 @@
+[LevelInfo0]
+Title=USA01
+
+[DialogueManager0]
+Speakers=((PawnName="spads1",Sentences=("Що вони там роблять? В нас менше години, щоб все розвантажити!","То може ви нарешті спробуєте відкрити шлюз?","Відправте кілька водолазів. Я хочу знати, що відбувається!")),(PawnName="spads2",Sentences=("Ми втратили зв'язок, полковнику!","Не відчиняється.","Так точно, полковнику!")))
+
+[DialogueManager9]
+Speakers=((PawnName="xIII",Sentences=("Джонс? Прийом?","Невдале місце для очікування для очікування... Краще відійти. ","Я не виконав свою місію...")))
+
+[DialogueManager2]
+Speakers=((PawnName="xIII",Sentences=("Джонс? Прийом?","Невдале місце для очікування для очікування... Краще відійти. ","Я не виконав свою місію...")),(PawnName="HFJones",Sentences=("Я якраз покидаю аеропорт. Далі справа за Керрінгтоном. Він підбере тебе біля 33-го ангару.","Зміна планів. Треба потопити субмарину разом з вантажем. Щасти тобі!","Розмісти вибухівку на гвинті.")),(PawnName="spads3b",Sentences=("Він наверху!")))
+
+[DialogueManager4]
+Speakers=((PawnName="HFJones",Sentences=("Я якраз покидаю аеропорт. Далі справа за Керрінгтоном. Він підбере тебе біля 33-го ангару.","Зміна планів. Треба потопити субмарину разом з вантажем. Щасти тобі!","Розмісти вибухівку на гвинті.")))
+
+[LevelSummary]
+Title=USA01
+
+[Usa0]
+Objectif=((GoalText="Відкрийте шлюзи і покиньте ангар."),(GoalText="Саботуйте гвинт субмарини."),(GoalText="Знайдыть безпечне місце!"))
+
+[DialogueManager8]
+Speakers=((PawnName="Spads3",Sentences=("Вперед! Вперед! Вперед!")))
+
+[XIIISaveGameTrigger2]
+SaveDescription=debut usa01
+
+[DialogueManager5]
+Speakers=((PawnName="spads1b",Sentences=("Вбийте його нарешті!")))
+
+[DialogueManager3]
+Speakers=((PawnName="HFJones",Sentences=("Я якраз покидаю аеропорт. Далі справа за Керрінгтоном. Він підбере тебе біля 33-го ангару.","Зміна планів. Треба потопити субмарину разом з вантажем. Щасти тобі!","Розмісти вибухівку на гвинті.")))
+
+[DialogueManager1]
+Speakers=((PawnName="spads3a",Sentences=("Там! У трюмі")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=en haut de la cabine d'usa01
+
+[DialogueManager7]
+Speakers=((PawnName="xIII",Sentences=("Джонс? Прийом?","Невдале місце для очікування для очікування... Краще відійти. ","Я не виконав свою місію...")))
+

@@ -1,0 +1,62 @@
+[LevelInfo0]
+Title=SSH101a
+
+[DialogueManager8]
+Speakers=((PawnName="GI3a",Sentences=("","","Так, сер. Полковник Маршалл залишив приміщення.")),(PawnName="GI1c",Sentences=("Ла-Ла-Ла!")))
+
+[DialogueManager5]
+Speakers=((PawnName="Sheridan",Sentences=("Йдіть до бухгалтерії та задайте будь-яке запитання стосовно бюджету. Це виправдає нашу присутність тут.","Щодо нас, полковнику Маршалле, ми прямуємо до командного пункту.","Що ти робиш? Нас помітять!","Чорт забирай!")),(PawnName="GI3X",Sentences=("УВАГА. Неуповноважений персонал на території.")),(),())
+
+[DialogueManager1]
+Speakers=((PawnName="GI2a",Sentences=("","Я виведу вас, полковнику.","Всього найкращого, Полковнику.")))
+
+[DialogueManager7]
+Speakers=((PawnName="Wax",Sentences=("Вітаємо у SSH1, сенаторе Шерідан!","Є невелика проблема, Волтере. Полковник Маршалл не може нас супроводжувати. Я маю суворий наказ від президента Ґелбрейна.","Наш персонал перевантажений, сер. Президент вважає за краще позбавити їх будь-якого додаткового обтяження.","Ходімо, Шерідане! Операція ось-ось розпочнеться.")),(PawnName="Sheridan",Sentences=("","","","","Вітаю, Келвіне. Радий знову зістритись з Вами.","Але я...","Прошу вибачення, полковнику Маршалле...")),(PawnName="HFCarrington",Sentences=("Знайди інший спосіб проникнути всередину!")))
+
+[DialogueManager6]
+Speakers=((PawnName="GI3a",Sentences=("Щойно прибула делегація сенатора Шерідана... Так, пане президенте!","Зараз вас прийме радник президента.")),(PawnName="GI2a",Sentences=("Після вас, сенаторе.")),(PawnName="Sheridan"))
+
+[DialogueManager2]
+Speakers=((PawnName="GI1a",Sentences=("Ла-Ла-Ла!","Ой! Ем... Доброго вечора, полковнику.")))
+
+[DialogueManager3]
+Speakers="((PawnName="Galbrain",Sentences=("Що Шерідан робить у SSH 1 під час виборчої кампанії? Це суцільна провокація!","Він вибрав для цього чудовий день! До речі, де в біса мої охоронці?","Секундочку, Келвін. Дай-но мені монетку.","Тих безрозсудних вояк?","От чорт! Жодна машина на цій базі не працює!","Кляті відходи суспільства, завербовані Макколом!","Але якщо ти вважаєш, що вони найкращі, Келвіне, я тобі вірю.")),(PawnName="Wax",Sentences=("","","","","","Хочу нагадати вам, що він у комітеті по бюджету Конгресу. Що дає йому право контролювати, як ми витрачаємо гроші платників податків.","Хмм... Насправді, сер...","Пане президенте, сер. Спец. загін було призначено для вашого захисту впродовж усього періоду операції.","Але, пане Президенте--","Пане Президенте--")),(PawnName="HFCarrington",Sentences=("","Ховайся!")))"
+
+[SSH101a0]
+Objectif=((GoalText="Проникніть на секретну базу SSH1"),(GoalText="Вас не повинні помітити"),(GoalText="Нейтралізуйте військових"),(),())
+MessageGameOver=("","Піднято тривогу. Номер I привів у виконання операцію Червоне Повстання. Вже пізно рятувати країну","Ви вбили невинну людину","Камера зафіксувала вашу присутність")
+TexteDuBriefing=Je suis convaincu que le numero 1 dirige en ce moment meme les operations et j'espere decouvrir enfin son visage. Ta mission consiste a l'identifier et a l'arreter avant qu'il ne soit trop tard. Trouve le poste de commande de SSH1 et interromps l'operation Rouge Totale au plus vite !  L'actuel president, Joseph Galbrain, est present sur les lieux, mais il croit toujours a la simulation d'un etat de guerre. Il ne se doute pas que les unites SPADS sont sur le point de prendre le controle de toutes les bases strategiques du pays.
+
+[MessageTrigger0]
+TriggeredMsg=Не забувайте ховати тіла
+
+[XIIISaveGameTrigger2]
+SaveDescription=SSH101a - Перший підвал
+
+[DialogueManager11]
+Speakers=((PawnName="Radio2",Sentences=("Сенатор Шерідан уже пройшов другий поверх. Зараз він і його співробітники прямують до наступного рівня. Радник Вакс щойно покинув їх. Мабуть, він уже дійшов до президента... Хмм... Добре. Так, пане майоре!")),(PawnName="Radio3",Sentences=("Неможливо пройти на перший поверх!","Це абсурд. Я хочу знати, що там відбувається...")),(PawnName="Radio4",Sentences=("Те саме на рівні 1. Жодних незвичайних повідомлень з командної станції. Ґелбрейн збирається дати зелене світло.","Прийом! Мене чутно? Прийом! Я тебе не чую! Прийом!")),(PawnName="Radio1",Sentences=("Прийом? Це Дуглас! Я також не можу дістатися до приймальні...")))
+
+[DialogueManager4]
+Speakers=((PawnName="GI2d",Sentences=("Ла-Ла-Ла!")))
+
+[LevelSummary]
+Title=SSH101a
+
+[XIIISaveGameTrigger0]
+SaveDescription=SSH101a - RDC
+
+[XIIISaveGameTrigger3]
+SaveDescription=SSH101a - Другий підвал
+
+[DialogueManager9]
+Speakers=((PawnName="HP",Sentences=("Усьому персоналу, зайняти свої місця. Операція Червоне Повстання готова до початку.")),(PawnName="HP",Sentences=("","Президента Ґелбрейна чекають у командному пункті.")),(PawnName="HP",Sentences=("","","Усьому персоналу, зайняти свої місця. Усьому персоналу, зайняти свої місця.")))
+
+[DialogueManager10]
+Speakers=((PawnName="Gi3d",Sentences=("Охорона Сектору Д. Прийом.","Маєш на увазі, що його радник хоче, щоб його супроводжував спец. загін?","Ти серйозно? Я не бачив, щоб вони проходили охорону.","Добре. Прийнято.","Келвін Вакс потрібен на Станції Охорони 1.")),(PawnName="Gi2c",Sentences=("Це Гордон. Ви чули про президента?","Так. Один з їхніх підрозділів уже внизу.","Повідом Вакса. Не хочу мати з ними справу!")))
+
+[DialogueManager12]
+Speakers=((PawnName="Gi3c",Sentences=("Прокляття, зламана кавова машина з'їла мої гроші!","Аррррр!")))
+
+[DialogueManager0]
+Speakers=((PawnName="GI2a",Sentences=("","","","Right this way, please.","Colonel? What are you doing, sir?","Don't move! You're under arrest for the duration of operations!","Alert! Intruder on the premises!")))
+

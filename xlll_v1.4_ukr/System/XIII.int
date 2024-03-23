@@ -1,0 +1,329 @@
+[General]
+Start=XIII (Starting)
+Exit=XIII (Exiting)
+Run=XIII (Running)
+Product=XIII
+
+[Public]
+Object=(Name=XIIIMPGame.XIIIMPGameInfoPlus,Class=Class,MetaClass=XIIIMP.XIIIMPGameInfo)
+Object=(Name=XIIIMPGame.XIIIMPTeamGameInfoPlus,Class=Class,MetaClass=XIIIMP.XIIIMPGameInfo)
+Object=(Name=XIIIMPGame.XIIIMPCTFGameInfoPlus,Class=Class,MetaClass=XIIIMP.XIIIMPGameInfo)
+Object=(Name=XIIIMPGame.XIIIMPDuckGameInfoPlus,Class=Class,MetaClass=XIIIMP.XIIIMPGameInfo)
+Object=(Name=XIIIMPGame.XIIIMPBombGamePlus,Class=Class,MetaClass=XIIIMP.XIIIMPGameInfo)
+Object=(Name=XIIIMPGame.XIIIMPMarioGameInfo,Class=Class,MetaClass=XIIIMP.XIIIMPGameInfo)
+Object=(Name=XIIIMPGame.XIIIMPTeamMarioGameInfo,Class=Class,MetaClass=XIIIMP.XIIIMPGameInfo)
+Object=(Name=XIIIMPGame.XIIIMPRealDuckGameInfo,Class=Class,MetaClass=XIIIMP.XIIIMPGameInfo)
+Object=(Name=XIIIMPMutator.AutoChat,Class=Class,MetaClass=XIIIMP.XIIIMPMutator)
+Object=(Name=XIIIMPMutator.Players,Class=Class,MetaClass=XIIIMP.XIIIMPMutator)
+Object=(Name=XIIIMPMutator.Equipment,Class=Class,MetaClass=XIIIMP.XIIIMPMutator)
+Object=(Name=XIIIMPMutator.World,Class=Class,MetaClass=XIIIMP.XIIIMPMutator)
+Object=(Name=XIIIMPMutator.Visuals,Class=Class,MetaClass=XIIIMP.XIIIMPMutator)
+Object=(Name=FragFace.FragFace,Class=Class,MetaClass=XIIIMP.XIIIMPMutator)
+Object=(Name=MightyFists.MightyFists,Class=Class,MetaClass=XIIIMP.XIIIMPMutator)
+;Object=(Name=XIIICheatProtection.AntiCVMutator,Class=Class,MetaClass=XIIIMP.XIIIMPMutator)
+
+[XIIIMover]
+LockedMessage=Двері замкнені.
+
+[XIIIDialogMessage]
+sEnoughAmmo=Недостатньо місця для патронів 
+sCantClimb=Треба позбутися баласту, щоб піднятися
+
+[XIIIGameInfo]
+GameName=Solo Game
+
+[MapInfo]
+MessageMissionSuccess=Рівень пройдено
+
+[DTDropAfterStun]
+DeathString=%k Stunned %o.
+
+[DTStunned]
+DeathString=%k Stunned %o.
+
+[DTSureStunned]
+DeathString=%k Stunned %o.
+
+[DTGunned]
+DeathString=%k made some additionnal holes in %o.
+
+[DTShotGunned]
+DeathString=%k riddled %o full of holes.
+
+[DTPierced]
+DeathString=%k pierced %o.
+
+[DTSniped]
+DeathString=%k needed only one bullet to get rid of %o.
+
+[DTBladeCut]
+DeathString=%k deeply cut into %o.
+
+[DTH2HBlade]
+DeathString=%k deeply cut into %o.
+
+[DTHeadShot]
+DeathString=%k Put some metal in %o's Head.
+
+[DTFisted]
+DeathString=%k Fisted %o.
+
+[DTCouDCross]
+DeathString=%k stab %o.
+
+[DTFell]
+DeathString=%o left a small crater
+FemaleSuicide=%o left a small crater
+MaleSuicide=%o left a small crater
+
+[DTDrowned]
+DeathString=%o forgot to come up for air.
+FemaleSuicide=%o forgot to come up for air.
+MaleSuicide=%o forgot to come up for air.
+
+[XIIISoloMessage]
+PickingLock=Зламування замка
+PickingInterrupt=Злом перервано
+UnlockedDoor=Двері відімкнуто
+TimeLeft=Залишилось часу : 
+LockedDoor=Двері замкнені
+WrongKey=Неправильний ключ
+NoLockPick=Ці двері неможливо зламати
+NothingOnThisCorpse=Пустно
+NeedTwoHands=Для виконання дії потрібні 2 вільні руки
+PrepareSaving=Підготовка до збереження даних, не видаляйте пристрій збереження та не вимикайте систему
+Saving=Збереження гри...
+FinishedSaving=Збереження завершено
+
+[DTGrenaded]
+DeathString=%k розірвано %o на шматки.
+
+[DTRocketed]
+DeathString=%k розірвано %o на шматки.
+
+[XIIIEndGameMessage]
+PlayerKilledMsg=XIII було вбито... 
+GoalInCompleteMsg=Ви провалили виконання поставлених цілей...
+PlayerFallingMsg=XIII розбився...
+
+[XIIIMissionCompletedMessage]
+GoalCompleteMsg=Місію пройдено !
+
+[DTSuicided]
+DeathString=%o має раптовий серцевий напад.
+
+[XIIIDecoPickup]
+PickupMessage=
+
+[XIIISaveMessage]
+CheckpointReached=Досягнуто контрольну точку
+
+[XIIIPickup]
+PickupMessage=Got a XIII Item ::BUG:: (Message should be defined in sub-classes) !!
+
+[EventItemPick]
+PickupMessage=ВАЖЛИВИЙ ПРЕДМЕТ
+
+[KeyPicks]
+PickupMessage=Ключ
+
+[UnLockerPick]
+PickupMessage=Відмичка
+
+[XIIIMultiMessage]
+WelcomeMessage=Entered the game
+GlobalNameChange=changed name to
+LeftMessage=left the game.
+sOverTimeMessage=Tie, Sudden Death !
+sOneFragLeft=: One frag left
+sOneMinuteLeft=One minute left
+
+[SkillDocumentPick]
+PickupMessage=ВАЖЛИВИЙ ДОКУМЕНТ
+
+[XIIIDocumentPick]
+PickupMessage=ДОКУМЕНТ
+
+[Chronometre]
+ChronoSeconds=" секунд"
+ChronoSecond=" секунда"
+
+[MultiplayerMedPickup]
+PickupMessage=Got a XIII Item ::BUG:: (Message should be defined in sub-classes) !!
+
+[PhotoPick]
+PickupMessage=Фото
+
+[XIIIDeathMessage]
+KilledBy=вбито
+Suicided=має раптовий серцевий напад.
+SuicidedMalus=покінчив життя самогубством ! Malus -50
+KilledByKKK=було вбито ! Malus -10
+
+[PumpAmmoClip]
+PickupMessage=Набої калібру 12-мм
+
+[MiniUziAmmoClip]
+PickupMessage=Набої до Узі
+
+[M60AmmoClip]
+PickupMessage=Набої до кулемета М60
+
+[M16AmmoClip]
+PickupMessage=Набої до М16
+
+[c9mmAmmoClip]
+PickupMessage=Набої калібру 9-мм
+
+[c556AmmoClip]
+PickupMessage=Набої калібру 5.56-мм
+
+[c44AmmoClip]
+PickupMessage=Набої калібру 44-мм
+
+[bmg50AmmoClip]
+PickupMessage=Набої калібру 12,7-мм
+
+[BazookAmmoClip]
+PickupMessage=Набір ракет до Базуки
+
+[TKnifePick]
+PickupMessage=Метальні ножі
+
+[SilencerPick]
+PickupMessage=Пістолет калібру 9-мм
+
+[PumpAmmoBox]
+PickupMessage=Набої калібру 12-мм
+
+[MiniUziPick]
+PickupMessage=Узі
+
+[MiniUziAmmoBox]
+PickupMessage=Коробка набоїв до Узі
+
+[MicroPick]
+PickupMessage=мікрофон
+
+[MedPick]
+PickupMessage=Мед. набір
+
+[MagnumPick]
+PickupMessage=Магнум 44 калібру
+
+[M60Pick]
+PickupMessage=М60
+
+[M60AmmoBox]
+PickupMessage=Коробка набоїв до M60
+
+[M16Pick]
+PickupMessage=Штурмова гвинтівка
+
+[M16GrenadPick]
+PickupMessage=Підствольна граната
+
+[M16AmmoBox]
+PickupMessage=Набір підствольних гранат
+
+[LHarponPick]
+PickupMessage=Гарпунна рушниця
+
+[KalashPick]
+PickupMessage=Калаш
+
+[HookPick]
+PickupMessage=Гак
+
+[HarponAmmoClip]
+PickupMessage=Гарпун
+
+[GrenadPick]
+PickupMessage=Граната
+
+[GiletMk2Pick]
+PickupMessage=Важкий жилет
+
+[GiletMk1Pick]
+PickupMessage=Легкий жилет
+
+[FusilSnipePick]
+PickupMessage=Снайперська гвинтівка
+
+[FusilPompePick]
+PickupMessage=Рушниця
+
+[FusilChassePick]
+PickupMessage=Мисливська рушниця
+
+[FullMedPick]
+PickupMessage=Повний мед. набір
+
+[FGrenadPick]
+PickupMessage=Граната
+
+[DTBite]
+DeathString=%k закусано %o до смерті.
+
+[CasquePick]
+PickupMessage=Легкий шолом
+
+[CasqueMk2Pick]
+PickupMessage=Важкий шолом
+
+[c9mmAmmoBox]
+PickupMessage=Коробка набоїв 9-мм
+
+[c556AmmoBox]
+PickupMessage=Коробка набоїв 5.56-мм
+
+[c44AmmoBox]
+PickupMessage=Коробка набоїв 44-мм
+
+[BoltAmmoBox]
+PickupMessage=Арбалетні болти
+
+[bmg50AmmoBox]
+PickupMessage=Коробка набоїв калібру 12,7-мм
+
+[BerettaPick]
+PickupMessage=Пістолет 9-мм
+
+[BazookPick]
+PickupMessage=Базука
+
+[BazookAmmoBox]
+PickupMessage=Набір ракет до Базуки
+
+[AutoMedPick]
+PickupMessage=Мед. набір
+
+[AutoFullMedPick]
+PickupMessage=Повний мед. набір
+
+[ArbaleteX3Pick]
+PickupMessage=Арбалет X3
+
+[ArbaletePick]
+PickupMessage=Арбалет
+
+[Hook]
+sItemName=Hook
+
+[LockPick]
+sItemName=Lockpick
+
+[FullMedKit]
+sItemName=Full Med Kit
+
+[MedKit]
+sItemName=Med Kit
+
+[XIIIBaseHud]
+sTimeLeft=left
+
+[Keys]
+sItemName=Key
+
+[Micro]
+sItemName=Micro

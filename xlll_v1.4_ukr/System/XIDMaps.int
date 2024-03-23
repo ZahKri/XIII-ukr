@@ -1,0 +1,116 @@
+[Banque01]
+KeyEventItemName=Ключ
+
+[Palace01b]
+sPoolRoomKeyName=Ключ від басейну
+
+[Banque01MallettePick]
+PickupMessage=Комірка
+
+[PRock03]
+KeyEventItemName=Ключ
+JoKeyEventItemName=Ключ
+
+[PRock03MicroHFPick]
+PickupMessage=Портативний мікрофон
+
+[Sanc02aMagneticCardPick]
+PickupMessage=Магнітна картка
+
+[Hual02MagneticCardPick]
+PickupMessage=Магнітна картка
+
+[PRock03MagneticCardPick]
+PickupMessage=Магнітна картка
+
+[USA02PortKeyPick]
+PickupMessage=Ключ від порту
+
+[Usa01BombePick]
+PickupMessage=Бомба
+
+[Spads03BossKeyPick]
+PickupMessage=Ключ до частини бази
+
+[Spads02MicroPick]
+PickupMessage=Шпигунський мікрофон
+
+[Spads02BombePick]
+PickupMessage=Бомба
+
+[SM02KeyPick]
+PickupMessage=Ключ від торпедного відсіку
+
+[Sanc02aStatuePartPick]
+PickupMessage=Частина статуї
+
+[PRock03CellKeyPick]
+PickupMessage=Ключ від комірки
+
+[Plage01CahuteKeyPick]
+PickupMessage=Ключ від будиночку
+
+[Palace1BRoom41KeyPick]
+PickupMessage=Ключ від кімнати 41
+
+[Hual04aFusiblePick]
+PickupMessage=Запобіжник
+
+[Banque01BombePick]
+PickupMessage=Бомба
+
+[Usa01Bombe]
+sItemName=Бомба
+
+[MagneticCard]
+sItemName=Магнітна картка
+
+[Banque01Bombe]
+sItemName=Бомба
+
+[Banque01MallettePick]
+InvItemName=Комірка
+PickupMessage=Комірка
+
+[PRock03MicroHFPick]
+InvItemName=Портативний мікрофон
+PickupMessage=Портативний мікрофон
+
+[Spads02Bombe]
+sItemName=Бомба
+
+[Spads02Micro]
+sItemName=Мікрофон
+
+[Hual04aFusible]
+sItemName=Запобіжник
+
+[Sanc02aStatuePart]
+sItemName=Частина статуї
+
+[SM02Key]
+sItemName=Ключ від торпедного відсіку
+
+[Palace1BRoom41Key]
+sItemName=Ключ від кімнати 41
+
+[PRock03CellKey]
+sItemName=Ключ від комірки
+
+[PRock01aRotondeKey]
+sItemName=Ключ від двору 1
+
+[PRock01aRotondeExitKey]
+sItemName=Ключ від двору 2
+
+[PRock01aCorridorKey]
+sItemName=Ключ від коридору
+
+[Plage01CahuteKey]
+sItemName=Ключ від будиночку
+
+[Plage01UselessKey]
+sItemName=Ключ
+
+[Spads02b]
+KeyKeeperKeyName=Ключ 

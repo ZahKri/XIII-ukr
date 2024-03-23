@@ -1,0 +1,19 @@
+[LevelInfo0]
+Title=sanc03
+
+[LevelSummary]
+Title=sanc03
+
+[DialogueManager0]
+Speakers=((PawnName="Amos",Sentences=("Добре. Стрибай на драбину!")),(PawnName="HFAmosB",Sentences=("Тримайся, Флаю! Я відправив гелікоптер до тебе.","Позбудься ворожих гелікоптерів. Вони заважають наблизитися!","Лишився один.","Молодець! Ми вже підлітаємо!","Розбіжись та стрибай з виступу.")))
+
+[Sanc0]
+Objectif=((GoalText="Біжіть до кінця скелі!"),(GoalText="Збийте ворожі гелікоптери!"),(GoalText="Застрибніть у гелікоптер ФБР!"))
+TexteDuBriefing=The hero has escaped the flames that are ravaging the Sanctuary, but the henchmen of the Conspiration are hot on his heels.  The hero has no other choice than to face his enemies in order to reach the edge of the cliff.
+
+[XIIISaveGameTrigger1]
+SaveDescription=Debut de Sanc03
+
+[XIIISaveGameTrigger3]
+SaveDescription=Avant La Tyrolienne de Sanc03
+

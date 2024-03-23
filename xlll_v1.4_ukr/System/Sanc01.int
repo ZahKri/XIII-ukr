@@ -1,0 +1,41 @@
+[DialogueManagerRandom1]
+Speakers=((PawnName="MIG1D",Sentences=("","Тривога! Знайдено труп, знайдено труп! Скасовууйте зустріч!")),(PawnName="MIG2D",Sentences=("","Чорт! Проінформуй штаб! Один з наших вбитий. Відміняйте зустріч!")),(PawnName="MIG3D",Sentences=("","Повідом штаб! Скасовуйте зустріч, я щойно знайшов мертвого!")))
+
+[DialogueManager2]
+Speakers=((PawnName="MIG3",Sentences=("Жодних новин. Відбій.")))
+
+[DialogueManager5]
+Speakers=((PawnName="Mangouste",Sentences=("Кажу вам, номер XIII отримав три кулі у груди!","Приїхала поліція, я не зміг його забрати. Але запевняю вас, він не міг--")),(PawnName="Wax",Sentences=("Що з його тілом?","Досить! Панове, номер XIII ще живий. Ми повинні позбутися його, перш ніж він зіпсує операцію.","Він знає, хто його зрадив. Він захоче помститися...")),(PawnName="Standwell"))
+
+[DialogueManager3]
+Speakers=((PawnName="MIG2",Sentences=("Гей, не так голосно! В мене вуха позакладало. ДОБРЕ, ПРИЙНЯТО! Зрозумів, як це відчувається?")))
+
+[DialogueManager4]
+Speakers=((PawnName="MIG1b",Sentences=("Ми з Метью усі вихідні займались корпусом корабля. Наступної неділі будемо наносити фарбу.","Чуєш! Глянь-но!","Гелікоптер! Ось там. Повідом штаб!","Ну добре... під твою відповідальність.","Так, ваша величність...")),(PawnName="MIG3",Sentences=("","Ця розмова викликає у мене морську хворобу!","Що?","Та тут в кожного є Гелікоптер. Я не стану про це доповідати. ","Добре. Якщо це дозволить відпочити від тебе хоч на 5 хвилин...")))
+
+[DialogueManager1]
+Speakers=((PawnName="hfAmos",Sentences=("Проникніть у Святилище та знайдіть кімнату для зустрічей. Не можу дочекатися, побачити обличчя Номера I!","Охорона напоготові! Лишайся непоміченим до мого сигналу.")),(PawnName="MIG1A",Sentences=("Ні. Шампанське ще не доставлено, і я не можу зв’язатися з містером Віллардом! Хммм... Скажи їм, що мені платять не за це!","Правильно! Передзвони мені, коли будуть новини.")))
+
+[LevelInfo0]
+Title=sanc01
+
+[DialogueManagerRandom0]
+Speakers=((PawnName="MIG1T",Sentences=("Тривога! Особа, про яку повідомляє штаб, проникла на територію. Треба його ліквідувати!")),(PawnName="MIG2T",Sentences=("Закрийте виходи! Стів Ролланд проник у Святилище. Розберемось з ним.")),(PawnName="MIG3T",Sentences=("Потрібна підмога! Тут Ролланд. Час назавжди покінчити з ним!")))
+
+[Sanc0]
+Objectif=((GoalText="Проникніть у святилище."),(GoalText="Ліквідуйте охорону не піднімаючи тривоги."))
+MessageGameOver=("Охорона попередила Номера 1. Зустріч скасовано.")
+TexteDuBriefing=Nous sommes tous bien dйcidйs а compromettre le projet des XX. Mais, pour йviter le pire а la nation, nous avons besoin de connaоtre le lieu d'oщ l'opйration Rouge Total sera dйclenchйe. Nous comptons sur votre discrйtion pour espionner l'ultime rйunion organisйe dans les sous-sols du sanctuaire par les chefs de la conjuration. Ils sont dйsormais sur leurs gardes et la propriйtй est sйvиrement gardйe. A la moindre alerte, la rйunion sera annulйe. Mais, sachez que j'ai entiиrement confiance en vous. Bonne chance !          Colonel Amos
+
+[DialogueManagerRandom3]
+Speakers=((PawnName="MIG1D",Sentences=("Чорт забирай...")),(PawnName="MIG2D",Sentences=("Що в біса коїться?")),(PawnName="MIG3D",Sentences=("Чорт, його смертельно вбили.")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=Sauvegarde corniche
+
+[LevelSummary]
+Title=sanc01
+
+[XIIISaveGameTrigger1]
+SaveDescription=Sanctuary garden
+

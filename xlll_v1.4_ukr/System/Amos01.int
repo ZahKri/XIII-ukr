@@ -1,0 +1,61 @@
+[LevelInfo0]
+Title=Amos01
+
+[DialogueManager12]
+Speakers=((PawnName="Bar1",Sentences=("Vas-y, fouille-le !","Allez ! On se tire !")),(PawnName="Bar3",Sentences=("Regarde, un flingue ! Attrape !")))
+
+[DialogueManager11]
+Speakers=((PawnName="Tueur1b",Sentences=("ФБР мають таємні офіси в Брукліні. Туди й переправили хлопця. Хутчіш! 110-а Стерлінг Стрітт!")))
+
+[DialogueManager10]
+Speakers=((PawnName="Tueur1c",Sentences=("Обережно! Підлога давно прогнила!")))
+
+[Amos0]
+Objectif=((GoalText="Не вбивайте агентів ФБР."),(GoalText="Зустріньтесь з агентом на даху."))
+MessageGameOver=("Ви вбили невинну людину.")
+
+[MessageTrigger0]
+TriggeredMsg=j'ai besoin du lock pick
+
+[DialogueManager8]
+Speakers=((PawnName="FBI1a",Sentences=("Боже, вони штурмують будівлю!","Я не знаю, але в них РПГ!","Ні. Всім залишатись на місцях!")),(PawnName="FBI2b",Sentences=("Що їм потрібно?","Потрібна допомога?","Зрозумів, ми будемо біля сектору Б!")))
+
+[DialogueManager9]
+Speakers=((PawnName="FBI3b",Sentences=("Назад! Кидай зброю!","Не ворушись!","Aaaaа!")),(PawnName="Tueur2",Sentences=("Де чоловік з тату?")))
+
+[DialogueManager2]
+Speakers=((PawnName="FBI2a",Sentences=("Га? Що він каже? Я не розумію! ")),(PawnName="FBI3a",Sentences=("Це абсурд! Чекай... Вони щойно підірвали двері чи... Що? Вони розуміють проти кого виступили?","Захищайте головний вхід та відправте людей до кабінету полковника. Я хочу щоб підозрюваний залишався на місці!")))
+
+[XIIISaveGameTrigger2]
+SaveDescription=ФБР
+
+[DialogueManager7]
+Speakers=((PawnName="FBI2a",Sentences=("","Що?","Ні! Не стріляй!")))
+
+[DialogueManager5]
+Speakers=((PawnName="FBI1b",Sentences=("Хто, в біса, ці хлопці?")))
+
+[XIIISaveGameTrigger1]
+SaveDescription=Контрольна точка2
+
+[DialogueManager6]
+Speakers=((PawnName="Tueur1",Sentences=("Це він!")),(PawnName="Tueur3",Sentences=("Знайшовся!")))
+
+[DialogueManager3]
+Speakers=((PawnName="FBI1a",Sentences=("Боже, вони штурмують будівлю!","Я не знаю, але в них РПГ!","Ні. Всім залишатись на місцях!")),(PawnName="FBI2b",Sentences=("Що їм потрібно?","Потрібна допомога?","Зрозумів, ми будемо біля сектору Б!")))
+
+[LevelSummary]
+Title=Amos01
+
+[DialogueManager1]
+Speakers=((PawnName="Jonesmaj",Sentences=("Агов! Чуєш...","Не ворушись! Я розберусь з наручниками.","Рада бачити тебе знову, Стіве!","Послухай, Мангуст вийшов на тебе. Зустрінемось на даху. І навіть не думай стріляти по службовцям, добре?")),(PawnName="XIII",Sentences=("Дівчина з банку...")))
+
+[DialogueManager0]
+Speakers=((PawnName="Amos",Sentences=("Хммм...","У своїх свідченнях ви вказали... що не вважаєте себе вбивцею.","Як зворушливо. Але закон діє керуючись не почуттями, чи не так? Він діє на основі доказів, яких я маю безліч.","Емері, знімки, будь ласка.","Подивіться на фото...","Бачите удар в області потилиці? Звідки, на вашу думку, прилетіла куля?","З цієї будівлі... ціль була у прямій видимості!","І кого ми бачимо? ","Що ж. Мені дістати дзеркало, чи ви вже зізнаєтесь у вбивстві...?","То де досьє?","Гадаю його дружина дуже здивується...","Але перед анонсом вашого воскресіння, капітан Ролланд, нам треба--","Га?!","Що, в біса, коїться?")),(PawnName="Employee1",Sentences=("Агент Скотт, перша лінія.")),(PawnName="telephone",Sentences=("Ви не повірите, полковнику. Військове досьє Стіва Ролланда зникло з Пентагону. І вони запевняють, що його вбили під час місії у Мексиці понад два роки тому!")))
+
+[XIIISaveGameTrigger0]
+SaveDescription=Контрольна точка1
+
+[DialogueManager4]
+Speakers=((PawnName="FBI3b",Sentences=("Крок назад! Кидай зброю!","Стій!","Ааааа!")),(PawnName="Tueur1a",Sentences=("Де ви тримаєте хлопця?")))
+

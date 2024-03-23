@@ -1,0 +1,137 @@
+[XIIIMPHud]
+sPosition[0]=" st"
+sPosition[1]=" nd"
+sPosition[2]=" rd"
+sPosition[3]=" th"
+sKicked=KICKED
+BonusText[0]=Invulnerability
+BonusText[1]=Invisibility
+BonusText[2]=Super Damage
+BonusText[3]=Regeneration
+BonusText[4]=Teleport
+BonusText[5]=Super Boost
+BonusText[6]=Lose Armor
+BonusText[7]=Lose Life
+BonusText[8]=Super Armor
+BonusText[9]=You Got The Flag
+BonusText[10]=You Got The Bomb
+BonusText[11]=Super Armor
+
+[XIIIMPScoreBoard]
+MapTitle=in
+Author=by
+Restart=You are dead.  Hit [Fire] to respawn!
+sContinue=Hit [Fire] to continue!
+Ended=The match has ended.
+ElapsedTime=Elapsed Time: 
+sRemainingTime=Remaining Time: 
+FragGoal=Frag Limit:
+TimeLimit=Time Limit:
+PlayerString=Player
+FragsString=Frag(s)
+DeathsString=Death(s)
+PingString=Ping
+TimeString=Time
+LossString=Loss
+FPHString=FPH
+sWaitingForReady=Waiting for players to be ready.
+strReady=Ready
+strPressFire=Fire to begin
+strPleaseWait=Please Wait...
+PostGameEndMessage=" wins the round!"
+TieGameMessage=Round ends with no winner.
+
+[XIIIMPCTFScoreBoard]
+strFlag=(Flag)
+FragsString=Point(s)
+
+[MPBombingBase]
+sBaseName=Bombing Point
+
+[XIIIMPGameInfo]
+PreGameEndMessageWinner=Player 
+PostGameEndMessageWinner=" wins the match"
+PreGameEndMessageTimeOut=Time Out
+GameName=DeathMatch Game
+
+[XIIIMPBotInteraction]
+strAllBot=All
+strResetOrder=Reset
+strCTFRole[0]=Attack
+strCTFRole[1]=Defense
+strCTFRole[2]=Support
+strBombDefendRole[0]=Defend Point 1
+strBombDefendRole[1]=Defend Point 2
+strBombDefendRole[2]=Defend Point 3
+strBombAttackRole[0]=Attack Point 1
+strBombAttackRole[1]=Attack Point 2
+strBombAttackRole[2]=Attack Point 3
+
+[XIIIMPSabotageScoreBoard]
+strFlag=(Bomb)
+
+[XIIIMPCTFMessage]
+ReturnBlue=returns the blue flag
+ReturnRed=returns the red flag
+ReturnedBlue=The blue flag was returned.
+ReturnedRed=The red flag was returned.
+CaptureBlue=The red team scores
+CaptureRed=The blue team scores
+DroppedBlue=dropped the blue flag
+DroppedRed=dropped the red flag
+HasBlue=has the blue flag
+HasRed=has the red flag
+
+[XIIIMPCTFGameInfo]
+GameName=Capture The Flag
+
+[XIIIMPTeamGameInfo]
+TeamName[0]=The Red ones
+TeamName[1]=The Blue ones
+GameName=Team DeathMatch
+
+[XIIIMPBombPick]
+PickupMessage=Бомба
+
+[MarioSmallWeaponPickUp]
+PickupMessage=Small Offensive Item
+
+[MarioPickUp]
+PickupMessage=Mario
+
+[MarioArmorAndMedKitPickUp]
+PickupMessage=Defensive Item
+
+[MarioHeavyWeaponPickUp]
+PickupMessage=Heavy Offensive Item
+
+[XIIIMPDuckMessage]
+HasTheDuck=has the Bird!
+LoseTheDuck=Lose The Bird!
+KillTheKKK=Killed The Death! Bonus + 30
+HasX=has
+XPoints=Points!
+XPoint=Point!
+
+[XIIIMPBombGame]
+GameName=Sabotage
+
+[MarioSuperBonusPickUp]
+PickupMessage=Bonus Item
+
+[XIIIMPSabotageMessage]
+BombIsActive=Bomb is ACTIVATED
+BombIsDesactivated=Bomb is DISABLED
+ObjectiveDestroyed=Objective is DESTROYED
+
+[FlashBangPick]
+PickupMessage=Cвітлошумова граната
+
+[XIIIMPCoverMeGameInfo]
+GameName=Couvrez-moi
+
+[XIIIMPObjectiveBase]
+sObjectiveName=Objective
+
+[XIIIMPStrategicGame]
+GameName=Strategic

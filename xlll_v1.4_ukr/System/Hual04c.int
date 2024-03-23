@@ -1,0 +1,40 @@
+[LevelInfo0]
+Title=Hual04c
+
+[DialogueManager5]
+Speakers=((PawnName="CarringtonW",Sentences=("","","","","Допоможи мені, синку!","Допоможи!","Aaaaа!")))
+
+[DialogueManager6]
+Speakers=((PawnName="XIII",Sentences=("Треба знайти місце, щоб використати гак.")))
+
+[DialogueManager8]
+Speakers=((PawnName="Carrington",Sentences=("","","","","","","","Стережись! Кабіна!")))
+
+[XIIISaveGameTrigger5]
+SaveDescription=Hual04c
+
+[Hual04c1]
+Objectif=((GoalText="Супроводьте Керрінгтона до гелікоптера з Джонс"),(GoalText="Прикрийте Керрінгтона"),(GoalText="Затримайте ворогів"),(GoalText="Сідайте у гелікоптер"),(),(),())
+MessageGameOver=("","Генерала Керрінгтона вбито","","","Ви втратили охоронця","Гелікоптер знищено","Генерала Керрінгтона вбито")
+
+[XIIISaveGameTrigger8]
+SaveDescription=Контрольна точка1
+
+[DialogueManager7]
+Speakers=((PawnName="CarringtonW",Sentences=("Гарна робота!","Стережись! ","Сюди!","Вперед!","","","")))
+
+[DialogueManager1]
+Speakers=((PawnName="Carrington",Sentences=("","","","","","","","","Сюди, синку! Присядь!","РПГ на 12-у годину!","Ховайся!","Прикрий!","Стережись! Вони знову наступають!","Гаразд… на горизонті чисто?","Гелікоптер просто за пагорбом! Ми впораємось !","Спец. загін, на 2-у годину !","Кляті солдати!","Ще одне РПГ прямо попереду","Стережись! Позаду!","Не стріляй! Це Джонс!","Прикрий нас! Я відремонтую двигун!")),(PawnName="XIII",Sentences=("","Так. Уперед!")))
+
+[DialogueManager2]
+Speakers=((PawnName="Carrington",Sentences=("Я б заплатив усі гроші світу, щоб побачити їхні вирази обличчя, коли ти з’явився в банку! Хa! Хa! Хa!","Вони наближаються!","Стережись! На підлогу!","Канат розірветься!","Ай! Моя спина...","Я піду перший та влаштую диверсію. Прикрий мене!")),(PawnName="Carrington",Sentences=("","","","","","","Aaaaа!")))
+
+[DialogueManager4]
+Speakers=((PawnName="SPADS1",Sentences=("Там, гелікоптер! Вперед!")),(PawnName="SPADS2",Sentences=("Схопіть їх!")))
+
+[LevelSummary]
+Title=Hual04c
+
+[DialogueManager3]
+Speakers=((PawnName="jones",Sentences=("","Гелікоптер не заводиться! Мені потрібна ваша допомога, генерале! Слідуйте за мною!","Добре! Застрибуй!")),(PawnName="jones",Sentences=("Швидше! Вони мене помітили! Я не зможу відбиватися довго!")),(PawnName="Carrington",Sentences=("","","","","","","","","","","","","","","","","","","","","","Women don't wait, kid! Get in!")),(PawnName="spads3",Sentences=("Я дістану цю сучу дівку! ")))
+
